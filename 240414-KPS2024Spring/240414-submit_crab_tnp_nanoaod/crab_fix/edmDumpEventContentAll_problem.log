@@ -1,0 +1,456 @@
+Type                                  Module                      Label             Process        Full Name
+------------------------------------------------------------------------------------------------------------
+GlobalObjectMapRecord                 "hltGtStage2ObjectMap"      ""                "HLT"          GlobalObjectMapRecord_hltGtStage2ObjectMap__HLT
+edm::TriggerResults                   "TriggerResults"            ""                "HLT"          edmTriggerResults_TriggerResults__HLT
+trigger::TriggerEvent                 "hltTriggerSummaryAOD"      ""                "HLT"          triggerTriggerEvent_hltTriggerSummaryAOD__HLT
+BXVector<GlobalAlgBlk>                "gtStage2Digis"             ""                "RECO"         GlobalAlgBlkBXVector_gtStage2Digis__RECO
+BXVector<GlobalExtBlk>                "gtStage2Digis"             ""                "RECO"         GlobalExtBlkBXVector_gtStage2Digis__RECO
+BXVector<l1t::CaloTower>              "caloStage2Digis"           "CaloTower"       "RECO"         l1tCaloTowerBXVector_caloStage2Digis_CaloTower_RECO
+BXVector<l1t::EGamma>                 "caloStage2Digis"           "EGamma"          "RECO"         l1tEGammaBXVector_caloStage2Digis_EGamma_RECO
+BXVector<l1t::EGamma>                 "gtStage2Digis"             "EGamma"          "RECO"         l1tEGammaBXVector_gtStage2Digis_EGamma_RECO
+BXVector<l1t::EGamma>                 "gtStage2Digis"             "EGamma2"         "RECO"         l1tEGammaBXVector_gtStage2Digis_EGamma2_RECO
+BXVector<l1t::EGamma>                 "gtStage2Digis"             "EGamma3"         "RECO"         l1tEGammaBXVector_gtStage2Digis_EGamma3_RECO
+BXVector<l1t::EGamma>                 "gtStage2Digis"             "EGamma4"         "RECO"         l1tEGammaBXVector_gtStage2Digis_EGamma4_RECO
+BXVector<l1t::EGamma>                 "gtStage2Digis"             "EGamma5"         "RECO"         l1tEGammaBXVector_gtStage2Digis_EGamma5_RECO
+BXVector<l1t::EGamma>                 "gtStage2Digis"             "EGamma6"         "RECO"         l1tEGammaBXVector_gtStage2Digis_EGamma6_RECO
+BXVector<l1t::EGamma>                 "caloStage2Digis"           "MP"              "RECO"         l1tEGammaBXVector_caloStage2Digis_MP_RECO
+BXVector<l1t::EtSum>                  "caloStage2Digis"           "EtSum"           "RECO"         l1tEtSumBXVector_caloStage2Digis_EtSum_RECO
+BXVector<l1t::EtSum>                  "gtStage2Digis"             "EtSum"           "RECO"         l1tEtSumBXVector_gtStage2Digis_EtSum_RECO
+BXVector<l1t::EtSum>                  "gtStage2Digis"             "EtSum2"          "RECO"         l1tEtSumBXVector_gtStage2Digis_EtSum2_RECO
+BXVector<l1t::EtSum>                  "gtStage2Digis"             "EtSum3"          "RECO"         l1tEtSumBXVector_gtStage2Digis_EtSum3_RECO
+BXVector<l1t::EtSum>                  "gtStage2Digis"             "EtSum4"          "RECO"         l1tEtSumBXVector_gtStage2Digis_EtSum4_RECO
+BXVector<l1t::EtSum>                  "gtStage2Digis"             "EtSum5"          "RECO"         l1tEtSumBXVector_gtStage2Digis_EtSum5_RECO
+BXVector<l1t::EtSum>                  "gtStage2Digis"             "EtSum6"          "RECO"         l1tEtSumBXVector_gtStage2Digis_EtSum6_RECO
+BXVector<l1t::EtSum>                  "caloStage2Digis"           "MP"              "RECO"         l1tEtSumBXVector_caloStage2Digis_MP_RECO
+BXVector<l1t::Jet>                    "caloStage2Digis"           "Jet"             "RECO"         l1tJetBXVector_caloStage2Digis_Jet_RECO
+BXVector<l1t::Jet>                    "gtStage2Digis"             "Jet"             "RECO"         l1tJetBXVector_gtStage2Digis_Jet_RECO
+BXVector<l1t::Jet>                    "gtStage2Digis"             "Jet2"            "RECO"         l1tJetBXVector_gtStage2Digis_Jet2_RECO
+BXVector<l1t::Jet>                    "gtStage2Digis"             "Jet3"            "RECO"         l1tJetBXVector_gtStage2Digis_Jet3_RECO
+BXVector<l1t::Jet>                    "gtStage2Digis"             "Jet4"            "RECO"         l1tJetBXVector_gtStage2Digis_Jet4_RECO
+BXVector<l1t::Jet>                    "gtStage2Digis"             "Jet5"            "RECO"         l1tJetBXVector_gtStage2Digis_Jet5_RECO
+BXVector<l1t::Jet>                    "gtStage2Digis"             "Jet6"            "RECO"         l1tJetBXVector_gtStage2Digis_Jet6_RECO
+BXVector<l1t::Jet>                    "caloStage2Digis"           "MP"              "RECO"         l1tJetBXVector_caloStage2Digis_MP_RECO
+BXVector<l1t::Muon>                   "gmtStage2Digis"            "Muon"            "RECO"         l1tMuonBXVector_gmtStage2Digis_Muon_RECO
+BXVector<l1t::Muon>                   "gtStage2Digis"             "Muon"            "RECO"         l1tMuonBXVector_gtStage2Digis_Muon_RECO
+BXVector<l1t::Muon>                   "gtStage2Digis"             "Muon2"           "RECO"         l1tMuonBXVector_gtStage2Digis_Muon2_RECO
+BXVector<l1t::Muon>                   "gtStage2Digis"             "Muon3"           "RECO"         l1tMuonBXVector_gtStage2Digis_Muon3_RECO
+BXVector<l1t::Muon>                   "gtStage2Digis"             "Muon4"           "RECO"         l1tMuonBXVector_gtStage2Digis_Muon4_RECO
+BXVector<l1t::Muon>                   "gtStage2Digis"             "Muon5"           "RECO"         l1tMuonBXVector_gtStage2Digis_Muon5_RECO
+BXVector<l1t::Muon>                   "gtStage2Digis"             "Muon6"           "RECO"         l1tMuonBXVector_gtStage2Digis_Muon6_RECO
+BXVector<l1t::Muon>                   "gmtStage2Digis"            "MuonCopy1"       "RECO"         l1tMuonBXVector_gmtStage2Digis_MuonCopy1_RECO
+BXVector<l1t::Muon>                   "gmtStage2Digis"            "MuonCopy2"       "RECO"         l1tMuonBXVector_gmtStage2Digis_MuonCopy2_RECO
+BXVector<l1t::Muon>                   "gmtStage2Digis"            "MuonCopy3"       "RECO"         l1tMuonBXVector_gmtStage2Digis_MuonCopy3_RECO
+BXVector<l1t::Muon>                   "gmtStage2Digis"            "MuonCopy4"       "RECO"         l1tMuonBXVector_gmtStage2Digis_MuonCopy4_RECO
+BXVector<l1t::Muon>                   "gmtStage2Digis"            "MuonCopy5"       "RECO"         l1tMuonBXVector_gmtStage2Digis_MuonCopy5_RECO
+BXVector<l1t::Muon>                   "gmtStage2Digis"            "imdMuonsBMTF"    "RECO"         l1tMuonBXVector_gmtStage2Digis_imdMuonsBMTF_RECO
+BXVector<l1t::Muon>                   "gmtStage2Digis"            "imdMuonsEMTFNeg"   "RECO"         l1tMuonBXVector_gmtStage2Digis_imdMuonsEMTFNeg_RECO
+BXVector<l1t::Muon>                   "gmtStage2Digis"            "imdMuonsEMTFPos"   "RECO"         l1tMuonBXVector_gmtStage2Digis_imdMuonsEMTFPos_RECO
+BXVector<l1t::Muon>                   "gmtStage2Digis"            "imdMuonsOMTFNeg"   "RECO"         l1tMuonBXVector_gmtStage2Digis_imdMuonsOMTFNeg_RECO
+BXVector<l1t::Muon>                   "gmtStage2Digis"            "imdMuonsOMTFPos"   "RECO"         l1tMuonBXVector_gmtStage2Digis_imdMuonsOMTFPos_RECO
+BXVector<l1t::MuonShower>             "gmtStage2Digis"            "MuonShower"      "RECO"         l1tMuonShowerBXVector_gmtStage2Digis_MuonShower_RECO
+BXVector<l1t::MuonShower>             "gtStage2Digis"             "MuonShower"      "RECO"         l1tMuonShowerBXVector_gtStage2Digis_MuonShower_RECO
+BXVector<l1t::MuonShower>             "gtStage2Digis"             "MuonShower2"     "RECO"         l1tMuonShowerBXVector_gtStage2Digis_MuonShower2_RECO
+BXVector<l1t::MuonShower>             "gtStage2Digis"             "MuonShower3"     "RECO"         l1tMuonShowerBXVector_gtStage2Digis_MuonShower3_RECO
+BXVector<l1t::MuonShower>             "gtStage2Digis"             "MuonShower4"     "RECO"         l1tMuonShowerBXVector_gtStage2Digis_MuonShower4_RECO
+BXVector<l1t::MuonShower>             "gtStage2Digis"             "MuonShower5"     "RECO"         l1tMuonShowerBXVector_gtStage2Digis_MuonShower5_RECO
+BXVector<l1t::MuonShower>             "gtStage2Digis"             "MuonShower6"     "RECO"         l1tMuonShowerBXVector_gtStage2Digis_MuonShower6_RECO
+BXVector<l1t::MuonShower>             "gmtStage2Digis"            "MuonShowerCopy1"   "RECO"         l1tMuonShowerBXVector_gmtStage2Digis_MuonShowerCopy1_RECO
+BXVector<l1t::MuonShower>             "gmtStage2Digis"            "MuonShowerCopy2"   "RECO"         l1tMuonShowerBXVector_gmtStage2Digis_MuonShowerCopy2_RECO
+BXVector<l1t::MuonShower>             "gmtStage2Digis"            "MuonShowerCopy3"   "RECO"         l1tMuonShowerBXVector_gmtStage2Digis_MuonShowerCopy3_RECO
+BXVector<l1t::MuonShower>             "gmtStage2Digis"            "MuonShowerCopy4"   "RECO"         l1tMuonShowerBXVector_gmtStage2Digis_MuonShowerCopy4_RECO
+BXVector<l1t::MuonShower>             "gmtStage2Digis"            "MuonShowerCopy5"   "RECO"         l1tMuonShowerBXVector_gmtStage2Digis_MuonShowerCopy5_RECO
+BXVector<l1t::RegionalMuonCand>       "gmtStage2Digis"            "BMTF"            "RECO"         l1tRegionalMuonCandBXVector_gmtStage2Digis_BMTF_RECO
+BXVector<l1t::RegionalMuonCand>       "gmtStage2Digis"            "EMTF"            "RECO"         l1tRegionalMuonCandBXVector_gmtStage2Digis_EMTF_RECO
+BXVector<l1t::RegionalMuonCand>       "gmtStage2Digis"            "OMTF"            "RECO"         l1tRegionalMuonCandBXVector_gmtStage2Digis_OMTF_RECO
+BXVector<l1t::RegionalMuonShower>     "gmtStage2Digis"            "EMTF"            "RECO"         l1tRegionalMuonShowerBXVector_gmtStage2Digis_EMTF_RECO
+BXVector<l1t::Tau>                    "caloStage2Digis"           "MP"              "RECO"         l1tTauBXVector_caloStage2Digis_MP_RECO
+BXVector<l1t::Tau>                    "caloStage2Digis"           "Tau"             "RECO"         l1tTauBXVector_caloStage2Digis_Tau_RECO
+BXVector<l1t::Tau>                    "gtStage2Digis"             "Tau"             "RECO"         l1tTauBXVector_gtStage2Digis_Tau_RECO
+BXVector<l1t::Tau>                    "gtStage2Digis"             "Tau2"            "RECO"         l1tTauBXVector_gtStage2Digis_Tau2_RECO
+BXVector<l1t::Tau>                    "gtStage2Digis"             "Tau3"            "RECO"         l1tTauBXVector_gtStage2Digis_Tau3_RECO
+BXVector<l1t::Tau>                    "gtStage2Digis"             "Tau4"            "RECO"         l1tTauBXVector_gtStage2Digis_Tau4_RECO
+BXVector<l1t::Tau>                    "gtStage2Digis"             "Tau5"            "RECO"         l1tTauBXVector_gtStage2Digis_Tau5_RECO
+BXVector<l1t::Tau>                    "gtStage2Digis"             "Tau6"            "RECO"         l1tTauBXVector_gtStage2Digis_Tau6_RECO
+CTPPSRecord                           "onlineMetaDataDigis"       ""                "RECO"         CTPPSRecord_onlineMetaDataDigis__RECO
+ClusterSummary                        "clusterSummaryProducer"    ""                "RECO"         ClusterSummary_clusterSummaryProducer__RECO
+DCSRecord                             "onlineMetaDataDigis"       ""                "RECO"         DCSRecord_onlineMetaDataDigis__RECO
+EBDigiCollection                      "selectDigi"                "selectedEcalEBDigiCollection"   "RECO"         EBDigiCollection_selectDigi_selectedEcalEBDigiCollection_RECO
+EEDigiCollection                      "selectDigi"                "selectedEcalEEDigiCollection"   "RECO"         EEDigiCollection_selectDigi_selectedEcalEEDigiCollection_RECO
+HcalNoiseSummary                      "hcalnoise"                 ""                "RECO"         HcalNoiseSummary_hcalnoise__RECO
+HcalUnpackerReport                    "hcalDigis"                 ""                "RECO"         HcalUnpackerReport_hcalDigis__RECO
+L1GlobalTriggerReadoutRecord          "gtDigis"                   ""                "RECO"         L1GlobalTriggerReadoutRecord_gtDigis__RECO
+OnlineLuminosityRecord                "onlineMetaDataDigis"       ""                "RECO"         OnlineLuminosityRecord_onlineMetaDataDigis__RECO
+TCDSRecord                            "tcdsDigis"                 "tcdsRecord"      "RECO"         TCDSRecord_tcdsDigis_tcdsRecord_RECO
+double                                "fixedGridRhoAll"           ""                "RECO"         double_fixedGridRhoAll__RECO
+double                                "fixedGridRhoFastjetAll"    ""                "RECO"         double_fixedGridRhoFastjetAll__RECO
+double                                "fixedGridRhoFastjetAllCalo"   ""                "RECO"         double_fixedGridRhoFastjetAllCalo__RECO
+double                                "fixedGridRhoFastjetAllTmp"   ""                "RECO"         double_fixedGridRhoFastjetAllTmp__RECO
+double                                "fixedGridRhoFastjetCentral"   ""                "RECO"         double_fixedGridRhoFastjetCentral__RECO
+double                                "fixedGridRhoFastjetCentralCalo"   ""                "RECO"         double_fixedGridRhoFastjetCentralCalo__RECO
+double                                "fixedGridRhoFastjetCentralChargedPileUp"   ""                "RECO"         double_fixedGridRhoFastjetCentralChargedPileUp__RECO
+double                                "fixedGridRhoFastjetCentralNeutral"   ""                "RECO"         double_fixedGridRhoFastjetCentralNeutral__RECO
+double                                "ak4CaloJets"               "rho"             "RECO"         double_ak4CaloJets_rho_RECO
+double                                "ak4PFJets"                 "rho"             "RECO"         double_ak4PFJets_rho_RECO
+double                                "ak4PFJetsCHS"              "rho"             "RECO"         double_ak4PFJetsCHS_rho_RECO
+double                                "ak4PFJetsPuppi"            "rho"             "RECO"         double_ak4PFJetsPuppi_rho_RECO
+double                                "ak8PFJetsPuppi"            "rho"             "RECO"         double_ak8PFJetsPuppi_rho_RECO
+double                                "ak8PFJetsPuppiSoftDrop"    "rho"             "RECO"         double_ak8PFJetsPuppiSoftDrop_rho_RECO
+double                                "ak4CaloJets"               "sigma"           "RECO"         double_ak4CaloJets_sigma_RECO
+double                                "ak4PFJets"                 "sigma"           "RECO"         double_ak4PFJets_sigma_RECO
+double                                "ak4PFJetsCHS"              "sigma"           "RECO"         double_ak4PFJetsCHS_sigma_RECO
+double                                "ak4PFJetsPuppi"            "sigma"           "RECO"         double_ak4PFJetsPuppi_sigma_RECO
+double                                "ak8PFJetsPuppi"            "sigma"           "RECO"         double_ak8PFJetsPuppi_sigma_RECO
+double                                "ak8PFJetsPuppiSoftDrop"    "sigma"           "RECO"         double_ak8PFJetsPuppiSoftDrop_sigma_RECO
+edm::Association<vector<reco::DeDxHitInfo> >    "dedxHitInfo"               ""                "RECO"         recoDeDxHitInfosedmAssociation_dedxHitInfo__RECO
+edm::Association<vector<reco::Track> >    "lowPtGsfToTrackLinks"      ""                "RECO"         recoTracksedmAssociation_lowPtGsfToTrackLinks__RECO
+edm::Association<vector<reco::TrackExtra> >    "displacedMuonReducedTrackExtras"   ""                "RECO"         recoTrackExtrasedmAssociation_displacedMuonReducedTrackExtras__RECO
+edm::Association<vector<reco::TrackExtra> >    "muonReducedTrackExtras"    ""                "RECO"         recoTrackExtrasedmAssociation_muonReducedTrackExtras__RECO
+edm::Association<vector<reco::Vertex> >    "offlinePrimaryVertices"    ""                "RECO"         recoVertexsedmAssociation_offlinePrimaryVertices__RECO
+edm::Association<vector<reco::Vertex> >    "offlinePrimaryVerticesWithBS"   ""                "RECO"         recoVertexsedmAssociation_offlinePrimaryVerticesWithBS__RECO
+edm::AssociationMap<edm::OneToOne<vector<reco::SuperCluster>,vector<reco::HFEMClusterShape>,unsigned int> >    "hfEMClusters"              ""                "RECO"         recoSuperClustersToOnerecoHFEMClusterShapesAssociation_hfEMClusters__RECO
+edm::AssociationMap<edm::OneToOne<vector<reco::Track>,vector<reco::Track>,unsigned int> >    "tevMuons"                  "default"         "RECO"         recoTracksToOnerecoTracksAssociation_tevMuons_default_RECO
+edm::AssociationMap<edm::OneToOne<vector<reco::Track>,vector<reco::Track>,unsigned int> >    "tevMuons"                  "dyt"             "RECO"         recoTracksToOnerecoTracksAssociation_tevMuons_dyt_RECO
+edm::AssociationMap<edm::OneToOne<vector<reco::Track>,vector<reco::Track>,unsigned int> >    "tevMuons"                  "firstHit"        "RECO"         recoTracksToOnerecoTracksAssociation_tevMuons_firstHit_RECO
+edm::AssociationMap<edm::OneToOne<vector<reco::Track>,vector<reco::Track>,unsigned int> >    "tevMuons"                  "picky"           "RECO"         recoTracksToOnerecoTracksAssociation_tevMuons_picky_RECO
+edm::AssociationVector<edm::RefProd<vector<reco::PFTau> >,vector<edm::Ref<vector<reco::PFTauTransverseImpactParameter>,reco::PFTauTransverseImpactParameter,edm::refhelper::FindUsingAdvance<vector<reco::PFTauTransverseImpactParameter>,reco::PFTauTransverseImpactParameter> > >,edm::Ref<vector<reco::PFTau>,reco::PFTau,edm::refhelper::FindUsingAdvance<vector<reco::PFTau>,reco::PFTau> >,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "hpsPFTauTransverseImpactParameters"   ""                "RECO"         recoPFTausedmRefProdrecoPFTauTransverseImpactParametersrecoPFTauTransverseImpactParameterrecoPFTauTransverseImpactParametersTorecoPFTauTransverseImpactParameteredmrefhelperFindUsingAdvanceedmRefsAssociationVector_hpsPFTauTransverseImpactParameters__RECO
+edm::AssociationVector<edm::RefToBaseProd<reco::Jet>,vector<edm::RefVector<vector<reco::Track>,reco::Track,edm::refhelper::FindUsingAdvance<vector<reco::Track>,reco::Track> > >,edm::RefToBase<reco::Jet>,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "ak4JetTracksAssociatorAtVertex"   ""                "RECO"         recoJetedmRefToBaseProdrecoTracksrecoTrackrecoTracksTorecoTrackedmrefhelperFindUsingAdvanceedmRefVectorsAssociationVector_ak4JetTracksAssociatorAtVertex__RECO
+edm::AssociationVector<edm::RefToBaseProd<reco::Jet>,vector<edm::RefVector<vector<reco::Track>,reco::Track,edm::refhelper::FindUsingAdvance<vector<reco::Track>,reco::Track> > >,edm::RefToBase<reco::Jet>,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "ak4JetTracksAssociatorAtVertexPF"   ""                "RECO"         recoJetedmRefToBaseProdrecoTracksrecoTrackrecoTracksTorecoTrackedmrefhelperFindUsingAdvanceedmRefVectorsAssociationVector_ak4JetTracksAssociatorAtVertexPF__RECO
+edm::AssociationVector<edm::RefToBaseProd<reco::Jet>,vector<edm::RefVector<vector<reco::Track>,reco::Track,edm::refhelper::FindUsingAdvance<vector<reco::Track>,reco::Track> > >,edm::RefToBase<reco::Jet>,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "ak4JetTracksAssociatorExplicit"   ""                "RECO"         recoJetedmRefToBaseProdrecoTracksrecoTrackrecoTracksTorecoTrackedmrefhelperFindUsingAdvanceedmRefVectorsAssociationVector_ak4JetTracksAssociatorExplicit__RECO
+edm::AssociationVector<edm::RefToBaseProd<reco::Jet>,vector<float>,edm::RefToBase<reco::Jet>,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "pfJetBProbabilityBJetTags"   ""                "RECO"         recoJetedmRefToBaseProdTofloatsAssociationVector_pfJetBProbabilityBJetTags__RECO
+edm::AssociationVector<edm::RefToBaseProd<reco::Jet>,vector<float>,edm::RefToBase<reco::Jet>,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "pfJetProbabilityBJetTags"   ""                "RECO"         recoJetedmRefToBaseProdTofloatsAssociationVector_pfJetProbabilityBJetTags__RECO
+edm::AssociationVector<edm::RefToBaseProd<reco::Jet>,vector<float>,edm::RefToBase<reco::Jet>,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "pfTrackCountingHighEffBJetTags"   ""                "RECO"         recoJetedmRefToBaseProdTofloatsAssociationVector_pfTrackCountingHighEffBJetTags__RECO
+edm::AssociationVector<edm::RefToBaseProd<reco::Jet>,vector<float>,edm::RefToBase<reco::Jet>,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "pfDeepCMVAJetTags"         "probb"           "RECO"         recoJetedmRefToBaseProdTofloatsAssociationVector_pfDeepCMVAJetTags_probb_RECO
+edm::AssociationVector<edm::RefToBaseProd<reco::Jet>,vector<float>,edm::RefToBase<reco::Jet>,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "pfDeepCSVJetTags"          "probb"           "RECO"         recoJetedmRefToBaseProdTofloatsAssociationVector_pfDeepCSVJetTags_probb_RECO
+edm::AssociationVector<edm::RefToBaseProd<reco::Jet>,vector<float>,edm::RefToBase<reco::Jet>,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "pfDeepCMVAJetTags"         "probbb"          "RECO"         recoJetedmRefToBaseProdTofloatsAssociationVector_pfDeepCMVAJetTags_probbb_RECO
+edm::AssociationVector<edm::RefToBaseProd<reco::Jet>,vector<float>,edm::RefToBase<reco::Jet>,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "pfDeepCSVJetTags"          "probbb"          "RECO"         recoJetedmRefToBaseProdTofloatsAssociationVector_pfDeepCSVJetTags_probbb_RECO
+edm::AssociationVector<edm::RefToBaseProd<reco::Jet>,vector<float>,edm::RefToBase<reco::Jet>,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "pfDeepCMVAJetTags"         "probc"           "RECO"         recoJetedmRefToBaseProdTofloatsAssociationVector_pfDeepCMVAJetTags_probc_RECO
+edm::AssociationVector<edm::RefToBaseProd<reco::Jet>,vector<float>,edm::RefToBase<reco::Jet>,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "pfDeepCSVJetTags"          "probc"           "RECO"         recoJetedmRefToBaseProdTofloatsAssociationVector_pfDeepCSVJetTags_probc_RECO
+edm::AssociationVector<edm::RefToBaseProd<reco::Jet>,vector<float>,edm::RefToBase<reco::Jet>,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "pfDeepCMVAJetTags"         "probcc"          "RECO"         recoJetedmRefToBaseProdTofloatsAssociationVector_pfDeepCMVAJetTags_probcc_RECO
+edm::AssociationVector<edm::RefToBaseProd<reco::Jet>,vector<float>,edm::RefToBase<reco::Jet>,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "pfDeepCMVAJetTags"         "probudsg"        "RECO"         recoJetedmRefToBaseProdTofloatsAssociationVector_pfDeepCMVAJetTags_probudsg_RECO
+edm::AssociationVector<edm::RefToBaseProd<reco::Jet>,vector<float>,edm::RefToBase<reco::Jet>,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "pfDeepCSVJetTags"          "probudsg"        "RECO"         recoJetedmRefToBaseProdTofloatsAssociationVector_pfDeepCSVJetTags_probudsg_RECO
+edm::AssociationVector<edm::RefToBaseProd<reco::Jet>,vector<reco::JetExtendedAssociation::JetExtendedData>,edm::RefToBase<reco::Jet>,unsigned int,edm::helper::AssociationIdenticalKeyReference>    "ak4JetExtender"            ""                "RECO"         recoJetedmRefToBaseProdTorecoJetExtendedAssociationJetExtendedDatasAssociationVector_ak4JetExtender__RECO
+edm::DetSetVector<CTPPSDiamondDigi>    "ctppsDiamondRawToDigi"     "TimingDiamond"   "RECO"         CTPPSDiamondDigiedmDetSetVector_ctppsDiamondRawToDigi_TimingDiamond_RECO
+edm::DetSetVector<CTPPSDiamondLocalTrack>    "ctppsDiamondLocalTracks"   ""                "RECO"         CTPPSDiamondLocalTrackedmDetSetVector_ctppsDiamondLocalTracks__RECO
+edm::DetSetVector<CTPPSDiamondRecHit>    "ctppsDiamondRecHits"       ""                "RECO"         CTPPSDiamondRecHitedmDetSetVector_ctppsDiamondRecHits__RECO
+edm::DetSetVector<CTPPSPixelCluster>    "ctppsPixelClusters"        ""                "RECO"         CTPPSPixelClusteredmDetSetVector_ctppsPixelClusters__RECO
+edm::DetSetVector<CTPPSPixelDataError>    "ctppsPixelDigis"           ""                "RECO"         CTPPSPixelDataErroredmDetSetVector_ctppsPixelDigis__RECO
+edm::DetSetVector<CTPPSPixelDigi>     "ctppsPixelDigis"           ""                "RECO"         CTPPSPixelDigiedmDetSetVector_ctppsPixelDigis__RECO
+edm::DetSetVector<CTPPSPixelLocalTrack>    "ctppsPixelLocalTracks"     ""                "RECO"         CTPPSPixelLocalTrackedmDetSetVector_ctppsPixelLocalTracks__RECO
+edm::DetSetVector<CTPPSPixelRecHit>    "ctppsPixelRecHits"         ""                "RECO"         CTPPSPixelRecHitedmDetSetVector_ctppsPixelRecHits__RECO
+edm::DetSetVector<TotemRPCluster>     "totemRPClusterProducer"    ""                "RECO"         TotemRPClusteredmDetSetVector_totemRPClusterProducer__RECO
+edm::DetSetVector<TotemRPDigi>        "totemRPRawToDigi"          "TrackingStrip"   "RECO"         TotemRPDigiedmDetSetVector_totemRPRawToDigi_TrackingStrip_RECO
+edm::DetSetVector<TotemRPLocalTrack>    "totemRPLocalTrackFitter"   ""                "RECO"         TotemRPLocalTrackedmDetSetVector_totemRPLocalTrackFitter__RECO
+edm::DetSetVector<TotemRPRecHit>      "totemRPRecHitProducer"     ""                "RECO"         TotemRPRecHitedmDetSetVector_totemRPRecHitProducer__RECO
+edm::DetSetVector<TotemRPUVPattern>    "totemRPUVPatternFinder"    ""                "RECO"         TotemRPUVPatternedmDetSetVector_totemRPUVPatternFinder__RECO
+edm::DetSetVector<TotemTimingDigi>    "totemTimingRawToDigi"      "TotemTiming"     "RECO"         TotemTimingDigiedmDetSetVector_totemTimingRawToDigi_TotemTiming_RECO
+edm::DetSetVector<TotemTimingLocalTrack>    "diamondSampicLocalTracks"   ""                "RECO"         TotemTimingLocalTrackedmDetSetVector_diamondSampicLocalTracks__RECO
+edm::DetSetVector<TotemTimingRecHit>    "totemTimingRecHits"        ""                "RECO"         TotemTimingRecHitedmDetSetVector_totemTimingRecHits__RECO
+edm::DetSetVector<TotemVFATStatus>    "ctppsDiamondRawToDigi"     "TimingDiamond"   "RECO"         TotemVFATStatusedmDetSetVector_ctppsDiamondRawToDigi_TimingDiamond_RECO
+edm::DetSetVector<TotemVFATStatus>    "totemT2Digis"              "TotemT2"         "RECO"         TotemVFATStatusedmDetSetVector_totemT2Digis_TotemT2_RECO
+edm::DetSetVector<TotemVFATStatus>    "totemRPRawToDigi"          "TrackingStrip"   "RECO"         TotemVFATStatusedmDetSetVector_totemRPRawToDigi_TrackingStrip_RECO
+edm::OwnVector<TrackingRecHit,edm::ClonePolicy<TrackingRecHit> >    "displacedGlobalMuons"      ""                "RECO"         TrackingRecHitsOwned_displacedGlobalMuons__RECO
+edm::OwnVector<TrackingRecHit,edm::ClonePolicy<TrackingRecHit> >    "displacedMuonReducedTrackExtras"   ""                "RECO"         TrackingRecHitsOwned_displacedMuonReducedTrackExtras__RECO
+edm::OwnVector<TrackingRecHit,edm::ClonePolicy<TrackingRecHit> >    "displacedStandAloneMuons"   ""                "RECO"         TrackingRecHitsOwned_displacedStandAloneMuons__RECO
+edm::OwnVector<TrackingRecHit,edm::ClonePolicy<TrackingRecHit> >    "muonReducedTrackExtras"    ""                "RECO"         TrackingRecHitsOwned_muonReducedTrackExtras__RECO
+edm::OwnVector<TrackingRecHit,edm::ClonePolicy<TrackingRecHit> >    "refittedStandAloneMuons"   ""                "RECO"         TrackingRecHitsOwned_refittedStandAloneMuons__RECO
+edm::OwnVector<TrackingRecHit,edm::ClonePolicy<TrackingRecHit> >    "standAloneMuons"           ""                "RECO"         TrackingRecHitsOwned_standAloneMuons__RECO
+edm::RangeMap<CSCDetId,edm::OwnVector<CSCRecHit2D,edm::ClonePolicy<CSCRecHit2D> >,edm::ClonePolicy<CSCRecHit2D> >    "csc2DRecHits"              ""                "RECO"         CSCDetIdCSCRecHit2DsOwnedRangeMap_csc2DRecHits__RECO
+edm::RangeMap<CSCDetId,edm::OwnVector<CSCSegment,edm::ClonePolicy<CSCSegment> >,edm::ClonePolicy<CSCSegment> >    "cscSegments"               ""                "RECO"         CSCDetIdCSCSegmentsOwnedRangeMap_cscSegments__RECO
+edm::RangeMap<DTChamberId,edm::OwnVector<DTRecSegment4D,edm::ClonePolicy<DTRecSegment4D> >,edm::ClonePolicy<DTRecSegment4D> >    "dt4DCosmicSegments"        ""                "RECO"         DTChamberIdDTRecSegment4DsOwnedRangeMap_dt4DCosmicSegments__RECO
+edm::RangeMap<DTChamberId,edm::OwnVector<DTRecSegment4D,edm::ClonePolicy<DTRecSegment4D> >,edm::ClonePolicy<DTRecSegment4D> >    "dt4DSegments"              ""                "RECO"         DTChamberIdDTRecSegment4DsOwnedRangeMap_dt4DSegments__RECO
+edm::RangeMap<DTLayerId,edm::OwnVector<DTRecHit1DPair,edm::ClonePolicy<DTRecHit1DPair> >,edm::ClonePolicy<DTRecHit1DPair> >    "dt1DRecHits"               ""                "RECO"         DTLayerIdDTRecHit1DPairsOwnedRangeMap_dt1DRecHits__RECO
+edm::RangeMap<GEMDetId,edm::OwnVector<GEMRecHit,edm::ClonePolicy<GEMRecHit> >,edm::ClonePolicy<GEMRecHit> >    "gemRecHits"                ""                "RECO"         GEMDetIdGEMRecHitsOwnedRangeMap_gemRecHits__RECO
+edm::RangeMap<GEMDetId,edm::OwnVector<GEMSegment,edm::ClonePolicy<GEMSegment> >,edm::ClonePolicy<GEMSegment> >    "gemSegments"               ""                "RECO"         GEMDetIdGEMSegmentsOwnedRangeMap_gemSegments__RECO
+edm::RangeMap<RPCDetId,edm::OwnVector<RPCRecHit,edm::ClonePolicy<RPCRecHit> >,edm::ClonePolicy<RPCRecHit> >    "rpcRecHits"                ""                "RECO"         RPCDetIdRPCRecHitsOwnedRangeMap_rpcRecHits__RECO
+edm::SortedCollection<EcalRecHit,edm::StrictWeakOrdering<EcalRecHit> >    "reducedEcalRecHitsEB"      ""                "RECO"         EcalRecHitsSorted_reducedEcalRecHitsEB__RECO
+edm::SortedCollection<EcalRecHit,edm::StrictWeakOrdering<EcalRecHit> >    "reducedEcalRecHitsEE"      ""                "RECO"         EcalRecHitsSorted_reducedEcalRecHitsEE__RECO
+edm::SortedCollection<EcalRecHit,edm::StrictWeakOrdering<EcalRecHit> >    "reducedEcalRecHitsES"      ""                "RECO"         EcalRecHitsSorted_reducedEcalRecHitsES__RECO
+edm::SortedCollection<HBHERecHit,edm::StrictWeakOrdering<HBHERecHit> >    "reducedHcalRecHits"        "hbhereco"        "RECO"         HBHERecHitsSorted_reducedHcalRecHits_hbhereco_RECO
+edm::SortedCollection<HFRecHit,edm::StrictWeakOrdering<HFRecHit> >    "reducedHcalRecHits"        "hfreco"          "RECO"         HFRecHitsSorted_reducedHcalRecHits_hfreco_RECO
+edm::SortedCollection<HORecHit,edm::StrictWeakOrdering<HORecHit> >    "reducedHcalRecHits"        "horeco"          "RECO"         HORecHitsSorted_reducedHcalRecHits_horeco_RECO
+edm::TriggerResults                   "TriggerResults"            ""                "RECO"         edmTriggerResults_TriggerResults__RECO
+edm::TriggerResults                   "l1bits"                    ""                "RECO"         edmTriggerResults_l1bits__RECO
+edm::ValueMap<bool>                   "chargedHadronPFTrackIsolation"   ""                "RECO"         booledmValueMap_chargedHadronPFTrackIsolation__RECO
+edm::ValueMap<bool>                   "PhotonIDProd"              "PhotonCutBasedIDLoose"   "RECO"         booledmValueMap_PhotonIDProd_PhotonCutBasedIDLoose_RECO
+edm::ValueMap<bool>                   "PhotonIDProdGED"           "PhotonCutBasedIDLoose"   "RECO"         booledmValueMap_PhotonIDProdGED_PhotonCutBasedIDLoose_RECO
+edm::ValueMap<bool>                   "PhotonIDProd"              "PhotonCutBasedIDLooseEM"   "RECO"         booledmValueMap_PhotonIDProd_PhotonCutBasedIDLooseEM_RECO
+edm::ValueMap<bool>                   "PhotonIDProdGED"           "PhotonCutBasedIDLooseEM"   "RECO"         booledmValueMap_PhotonIDProdGED_PhotonCutBasedIDLooseEM_RECO
+edm::ValueMap<bool>                   "PhotonIDProd"              "PhotonCutBasedIDTight"   "RECO"         booledmValueMap_PhotonIDProd_PhotonCutBasedIDTight_RECO
+edm::ValueMap<bool>                   "PhotonIDProdGED"           "PhotonCutBasedIDTight"   "RECO"         booledmValueMap_PhotonIDProdGED_PhotonCutBasedIDTight_RECO
+edm::ValueMap<bool>                   "muons"                     "muidAllArbitrated"   "RECO"         booledmValueMap_muons_muidAllArbitrated_RECO
+edm::ValueMap<bool>                   "muons"                     "muidGMStaChiCompatibility"   "RECO"         booledmValueMap_muons_muidGMStaChiCompatibility_RECO
+edm::ValueMap<bool>                   "muons"                     "muidGMTkChiCompatibility"   "RECO"         booledmValueMap_muons_muidGMTkChiCompatibility_RECO
+edm::ValueMap<bool>                   "muons"                     "muidGMTkKinkTight"   "RECO"         booledmValueMap_muons_muidGMTkKinkTight_RECO
+edm::ValueMap<bool>                   "muons"                     "muidGlobalMuonPromptTight"   "RECO"         booledmValueMap_muons_muidGlobalMuonPromptTight_RECO
+edm::ValueMap<bool>                   "muons"                     "muidRPCMuLoose"   "RECO"         booledmValueMap_muons_muidRPCMuLoose_RECO
+edm::ValueMap<bool>                   "muons"                     "muidTM2DCompatibilityLoose"   "RECO"         booledmValueMap_muons_muidTM2DCompatibilityLoose_RECO
+edm::ValueMap<bool>                   "muons"                     "muidTM2DCompatibilityTight"   "RECO"         booledmValueMap_muons_muidTM2DCompatibilityTight_RECO
+edm::ValueMap<bool>                   "muons"                     "muidTMLastStationAngLoose"   "RECO"         booledmValueMap_muons_muidTMLastStationAngLoose_RECO
+edm::ValueMap<bool>                   "muons"                     "muidTMLastStationAngTight"   "RECO"         booledmValueMap_muons_muidTMLastStationAngTight_RECO
+edm::ValueMap<bool>                   "muons"                     "muidTMLastStationLoose"   "RECO"         booledmValueMap_muons_muidTMLastStationLoose_RECO
+edm::ValueMap<bool>                   "muons"                     "muidTMLastStationOptimizedLowPtLoose"   "RECO"         booledmValueMap_muons_muidTMLastStationOptimizedLowPtLoose_RECO
+edm::ValueMap<bool>                   "muons"                     "muidTMLastStationOptimizedLowPtTight"   "RECO"         booledmValueMap_muons_muidTMLastStationOptimizedLowPtTight_RECO
+edm::ValueMap<bool>                   "muons"                     "muidTMLastStationTight"   "RECO"         booledmValueMap_muons_muidTMLastStationTight_RECO
+edm::ValueMap<bool>                   "muons"                     "muidTMOneStationAngLoose"   "RECO"         booledmValueMap_muons_muidTMOneStationAngLoose_RECO
+edm::ValueMap<bool>                   "muons"                     "muidTMOneStationAngTight"   "RECO"         booledmValueMap_muons_muidTMOneStationAngTight_RECO
+edm::ValueMap<bool>                   "muons"                     "muidTMOneStationLoose"   "RECO"         booledmValueMap_muons_muidTMOneStationLoose_RECO
+edm::ValueMap<bool>                   "muons"                     "muidTMOneStationTight"   "RECO"         booledmValueMap_muons_muidTMOneStationTight_RECO
+edm::ValueMap<bool>                   "muons"                     "muidTrackerMuonArbitrated"   "RECO"         booledmValueMap_muons_muidTrackerMuonArbitrated_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFMeanDRIsoValueCharged03"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFMeanDRIsoValueCharged03_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFMeanDRIsoValueCharged04"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFMeanDRIsoValueCharged04_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFMeanDRIsoValueChargedAll03"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFMeanDRIsoValueChargedAll03_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFMeanDRIsoValueChargedAll04"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFMeanDRIsoValueChargedAll04_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFMeanDRIsoValueGamma03"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFMeanDRIsoValueGamma03_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFMeanDRIsoValueGamma04"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFMeanDRIsoValueGamma04_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFMeanDRIsoValueGammaHighThreshold03"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFMeanDRIsoValueGammaHighThreshold03_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFMeanDRIsoValueGammaHighThreshold04"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFMeanDRIsoValueGammaHighThreshold04_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFMeanDRIsoValueNeutral03"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFMeanDRIsoValueNeutral03_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFMeanDRIsoValueNeutral04"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFMeanDRIsoValueNeutral04_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFMeanDRIsoValueNeutralHighThreshold03"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFMeanDRIsoValueNeutralHighThreshold03_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFMeanDRIsoValueNeutralHighThreshold04"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFMeanDRIsoValueNeutralHighThreshold04_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFMeanDRIsoValuePU03"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFMeanDRIsoValuePU03_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFMeanDRIsoValuePU04"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFMeanDRIsoValuePU04_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFSumDRIsoValueCharged03"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFSumDRIsoValueCharged03_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFSumDRIsoValueCharged04"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFSumDRIsoValueCharged04_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFSumDRIsoValueChargedAll03"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFSumDRIsoValueChargedAll03_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFSumDRIsoValueChargedAll04"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFSumDRIsoValueChargedAll04_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFSumDRIsoValueGamma03"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFSumDRIsoValueGamma03_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFSumDRIsoValueGamma04"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFSumDRIsoValueGamma04_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFSumDRIsoValueGammaHighThreshold03"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFSumDRIsoValueGammaHighThreshold03_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFSumDRIsoValueGammaHighThreshold04"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFSumDRIsoValueGammaHighThreshold04_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFSumDRIsoValueNeutral03"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFSumDRIsoValueNeutral03_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFSumDRIsoValueNeutral04"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFSumDRIsoValueNeutral04_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFSumDRIsoValueNeutralHighThreshold03"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFSumDRIsoValueNeutralHighThreshold03_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFSumDRIsoValueNeutralHighThreshold04"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFSumDRIsoValueNeutralHighThreshold04_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFSumDRIsoValuePU03"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFSumDRIsoValuePU03_RECO
+edm::ValueMap<double>                 "displacedMuons"            "dispMuPFSumDRIsoValuePU04"   "RECO"         doubleedmValueMap_displacedMuons_dispMuPFSumDRIsoValuePU04_RECO
+edm::ValueMap<double>                 "muons"                     "muPFMeanDRIsoValueCharged03"   "RECO"         doubleedmValueMap_muons_muPFMeanDRIsoValueCharged03_RECO
+edm::ValueMap<double>                 "muons"                     "muPFMeanDRIsoValueCharged04"   "RECO"         doubleedmValueMap_muons_muPFMeanDRIsoValueCharged04_RECO
+edm::ValueMap<double>                 "muons"                     "muPFMeanDRIsoValueChargedAll03"   "RECO"         doubleedmValueMap_muons_muPFMeanDRIsoValueChargedAll03_RECO
+edm::ValueMap<double>                 "muons"                     "muPFMeanDRIsoValueChargedAll04"   "RECO"         doubleedmValueMap_muons_muPFMeanDRIsoValueChargedAll04_RECO
+edm::ValueMap<double>                 "muons"                     "muPFMeanDRIsoValueGamma03"   "RECO"         doubleedmValueMap_muons_muPFMeanDRIsoValueGamma03_RECO
+edm::ValueMap<double>                 "muons"                     "muPFMeanDRIsoValueGamma04"   "RECO"         doubleedmValueMap_muons_muPFMeanDRIsoValueGamma04_RECO
+edm::ValueMap<double>                 "muons"                     "muPFMeanDRIsoValueGammaHighThreshold03"   "RECO"         doubleedmValueMap_muons_muPFMeanDRIsoValueGammaHighThreshold03_RECO
+edm::ValueMap<double>                 "muons"                     "muPFMeanDRIsoValueGammaHighThreshold04"   "RECO"         doubleedmValueMap_muons_muPFMeanDRIsoValueGammaHighThreshold04_RECO
+edm::ValueMap<double>                 "muons"                     "muPFMeanDRIsoValueNeutral03"   "RECO"         doubleedmValueMap_muons_muPFMeanDRIsoValueNeutral03_RECO
+edm::ValueMap<double>                 "muons"                     "muPFMeanDRIsoValueNeutral04"   "RECO"         doubleedmValueMap_muons_muPFMeanDRIsoValueNeutral04_RECO
+edm::ValueMap<double>                 "muons"                     "muPFMeanDRIsoValueNeutralHighThreshold03"   "RECO"         doubleedmValueMap_muons_muPFMeanDRIsoValueNeutralHighThreshold03_RECO
+edm::ValueMap<double>                 "muons"                     "muPFMeanDRIsoValueNeutralHighThreshold04"   "RECO"         doubleedmValueMap_muons_muPFMeanDRIsoValueNeutralHighThreshold04_RECO
+edm::ValueMap<double>                 "muons"                     "muPFMeanDRIsoValuePU03"   "RECO"         doubleedmValueMap_muons_muPFMeanDRIsoValuePU03_RECO
+edm::ValueMap<double>                 "muons"                     "muPFMeanDRIsoValuePU04"   "RECO"         doubleedmValueMap_muons_muPFMeanDRIsoValuePU04_RECO
+edm::ValueMap<double>                 "muons"                     "muPFSumDRIsoValueCharged03"   "RECO"         doubleedmValueMap_muons_muPFSumDRIsoValueCharged03_RECO
+edm::ValueMap<double>                 "muons"                     "muPFSumDRIsoValueCharged04"   "RECO"         doubleedmValueMap_muons_muPFSumDRIsoValueCharged04_RECO
+edm::ValueMap<double>                 "muons"                     "muPFSumDRIsoValueChargedAll03"   "RECO"         doubleedmValueMap_muons_muPFSumDRIsoValueChargedAll03_RECO
+edm::ValueMap<double>                 "muons"                     "muPFSumDRIsoValueChargedAll04"   "RECO"         doubleedmValueMap_muons_muPFSumDRIsoValueChargedAll04_RECO
+edm::ValueMap<double>                 "muons"                     "muPFSumDRIsoValueGamma03"   "RECO"         doubleedmValueMap_muons_muPFSumDRIsoValueGamma03_RECO
+edm::ValueMap<double>                 "muons"                     "muPFSumDRIsoValueGamma04"   "RECO"         doubleedmValueMap_muons_muPFSumDRIsoValueGamma04_RECO
+edm::ValueMap<double>                 "muons"                     "muPFSumDRIsoValueGammaHighThreshold03"   "RECO"         doubleedmValueMap_muons_muPFSumDRIsoValueGammaHighThreshold03_RECO
+edm::ValueMap<double>                 "muons"                     "muPFSumDRIsoValueGammaHighThreshold04"   "RECO"         doubleedmValueMap_muons_muPFSumDRIsoValueGammaHighThreshold04_RECO
+edm::ValueMap<double>                 "muons"                     "muPFSumDRIsoValueNeutral03"   "RECO"         doubleedmValueMap_muons_muPFSumDRIsoValueNeutral03_RECO
+edm::ValueMap<double>                 "muons"                     "muPFSumDRIsoValueNeutral04"   "RECO"         doubleedmValueMap_muons_muPFSumDRIsoValueNeutral04_RECO
+edm::ValueMap<double>                 "muons"                     "muPFSumDRIsoValueNeutralHighThreshold03"   "RECO"         doubleedmValueMap_muons_muPFSumDRIsoValueNeutralHighThreshold03_RECO
+edm::ValueMap<double>                 "muons"                     "muPFSumDRIsoValueNeutralHighThreshold04"   "RECO"         doubleedmValueMap_muons_muPFSumDRIsoValueNeutralHighThreshold04_RECO
+edm::ValueMap<double>                 "muons"                     "muPFSumDRIsoValuePU03"   "RECO"         doubleedmValueMap_muons_muPFSumDRIsoValuePU03_RECO
+edm::ValueMap<double>                 "muons"                     "muPFSumDRIsoValuePU04"   "RECO"         doubleedmValueMap_muons_muPFSumDRIsoValuePU04_RECO
+edm::ValueMap<edm::Ptr<reco::PFCandidate> >    "particleFlow"              "electrons"       "RECO"         recoPFCandidateedmPtredmValueMap_particleFlow_electrons_RECO
+edm::ValueMap<edm::Ptr<reco::PFCandidate> >    "particleFlow"              "muons"           "RECO"         recoPFCandidateedmPtredmValueMap_particleFlow_muons_RECO
+edm::ValueMap<edm::Ptr<reco::PFCandidate> >    "particleFlow"              "photons"         "RECO"         recoPFCandidateedmPtredmValueMap_particleFlow_photons_RECO
+edm::ValueMap<float>                  "ak8PFJetsPuppiSoftDropMass"   ""                "RECO"         floatedmValueMap_ak8PFJetsPuppiSoftDropMass__RECO
+edm::ValueMap<float>                  "eidLoose"                  ""                "RECO"         floatedmValueMap_eidLoose__RECO
+edm::ValueMap<float>                  "eidRobustHighEnergy"       ""                "RECO"         floatedmValueMap_eidRobustHighEnergy__RECO
+edm::ValueMap<float>                  "eidRobustLoose"            ""                "RECO"         floatedmValueMap_eidRobustLoose__RECO
+edm::ValueMap<float>                  "eidRobustTight"            ""                "RECO"         floatedmValueMap_eidRobustTight__RECO
+edm::ValueMap<float>                  "eidTight"                  ""                "RECO"         floatedmValueMap_eidTight__RECO
+edm::ValueMap<float>                  "lowPtGsfElectronID"        ""                "RECO"         floatedmValueMap_lowPtGsfElectronID__RECO
+edm::ValueMap<float>                  "offlinePrimaryVertices"    ""                "RECO"         floatedmValueMap_offlinePrimaryVertices__RECO
+edm::ValueMap<float>                  "offlinePrimaryVerticesWithBS"   ""                "RECO"         floatedmValueMap_offlinePrimaryVerticesWithBS__RECO
+edm::ValueMap<float>                  "puppi"                     ""                "RECO"         floatedmValueMap_puppi__RECO
+edm::ValueMap<float>                  "puppiNoLep"                ""                "RECO"         floatedmValueMap_puppiNoLep__RECO
+edm::ValueMap<float>                  "lowPtGsfElectronSeedValueMaps"   "ptbiased"        "RECO"         floatedmValueMap_lowPtGsfElectronSeedValueMaps_ptbiased_RECO
+edm::ValueMap<float>                  "rekeyLowPtGsfElectronSeedValueMaps"   "ptbiased"        "RECO"         floatedmValueMap_rekeyLowPtGsfElectronSeedValueMaps_ptbiased_RECO
+edm::ValueMap<float>                  "lowPtGsfElectronSeedValueMaps"   "unbiased"        "RECO"         floatedmValueMap_lowPtGsfElectronSeedValueMaps_unbiased_RECO
+edm::ValueMap<float>                  "rekeyLowPtGsfElectronSeedValueMaps"   "unbiased"        "RECO"         floatedmValueMap_rekeyLowPtGsfElectronSeedValueMaps_unbiased_RECO
+edm::ValueMap<int>                    "offlinePrimaryVertices"    ""                "RECO"         intedmValueMap_offlinePrimaryVertices__RECO
+edm::ValueMap<int>                    "offlinePrimaryVerticesWithBS"   ""                "RECO"         intedmValueMap_offlinePrimaryVerticesWithBS__RECO
+edm::ValueMap<int>                    "dedxHitInfo"               "prescale"        "RECO"         intedmValueMap_dedxHitInfo_prescale_RECO
+edm::ValueMap<reco::DeDxData>         "dedxHarmonic2"             ""                "RECO"         recoDeDxDataedmValueMap_dedxHarmonic2__RECO
+edm::ValueMap<reco::DeDxData>         "dedxPixelHarmonic2"        ""                "RECO"         recoDeDxDataedmValueMap_dedxPixelHarmonic2__RECO
+edm::ValueMap<reco::JetID>            "ak4JetID"                  ""                "RECO"         recoJetIDedmValueMap_ak4JetID__RECO
+edm::ValueMap<reco::MuonCosmicCompatibility>    "muons"                     "cosmicsVeto"     "RECO"         recoMuonCosmicCompatibilityedmValueMap_muons_cosmicsVeto_RECO
+edm::ValueMap<reco::MuonMETCorrectionData>    "muonMETValueMapProducer"   "muCorrData"      "RECO"         recoMuonMETCorrectionDataedmValueMap_muonMETValueMapProducer_muCorrData_RECO
+edm::ValueMap<reco::MuonShower>       "muons"                     "muonShowerInformation"   "RECO"         recoMuonShoweredmValueMap_muons_muonShowerInformation_RECO
+edm::ValueMap<reco::MuonTimeExtra>    "displacedMuons"            "combined"        "RECO"         recoMuonTimeExtraedmValueMap_displacedMuons_combined_RECO
+edm::ValueMap<reco::MuonTimeExtra>    "muons"                     "combined"        "RECO"         recoMuonTimeExtraedmValueMap_muons_combined_RECO
+edm::ValueMap<reco::MuonTimeExtra>    "displacedMuons"            "csc"             "RECO"         recoMuonTimeExtraedmValueMap_displacedMuons_csc_RECO
+edm::ValueMap<reco::MuonTimeExtra>    "muons"                     "csc"             "RECO"         recoMuonTimeExtraedmValueMap_muons_csc_RECO
+edm::ValueMap<reco::MuonTimeExtra>    "displacedMuons"            "dt"              "RECO"         recoMuonTimeExtraedmValueMap_displacedMuons_dt_RECO
+edm::ValueMap<reco::MuonTimeExtra>    "muons"                     "dt"              "RECO"         recoMuonTimeExtraedmValueMap_muons_dt_RECO
+edm::ValueMap<reco::SingleTauDiscriminatorContainer>    "hpsPFTauBasicDiscriminators"   ""                "RECO"         recoSingleTauDiscriminatorContaineredmValueMap_hpsPFTauBasicDiscriminators__RECO
+edm::ValueMap<reco::SingleTauDiscriminatorContainer>    "hpsPFTauBasicDiscriminatorsdR03"   ""                "RECO"         recoSingleTauDiscriminatorContaineredmValueMap_hpsPFTauBasicDiscriminatorsdR03__RECO
+edm::ValueMap<reco::SingleTauDiscriminatorContainer>    "hpsPFTauDiscriminationByMuonRejection3"   ""                "RECO"         recoSingleTauDiscriminatorContaineredmValueMap_hpsPFTauDiscriminationByMuonRejection3__RECO
+edm::ValueMap<vector<edm::Ref<vector<reco::PFCandidate>,reco::PFCandidate,edm::refhelper::FindUsingAdvance<vector<reco::PFCandidate>,reco::PFCandidate> > > >    "particleBasedIsolation"    "gedGsfElectrons"   "RECO"         recoPFCandidatesrecoPFCandidaterecoPFCandidatesrecoPFCandidateedmrefhelperFindUsingAdvanceedmRefsedmValueMap_particleBasedIsolation_gedGsfElectrons_RECO
+edm::ValueMap<vector<edm::Ref<vector<reco::PFCandidate>,reco::PFCandidate,edm::refhelper::FindUsingAdvance<vector<reco::PFCandidate>,reco::PFCandidate> > > >    "particleBasedIsolation"    "gedPhotons"      "RECO"         recoPFCandidatesrecoPFCandidaterecoPFCandidatesrecoPFCandidateedmrefhelperFindUsingAdvanceedmRefsedmValueMap_particleBasedIsolation_gedPhotons_RECO
+edm::ValueMap<unsigned int>           "muons"                     "cosmicsVeto"     "RECO"         uintedmValueMap_muons_cosmicsVeto_RECO
+edmNew::DetSetVector<SiPixelCluster>    "displacedMuonReducedTrackExtras"   ""                "RECO"         SiPixelClusteredmNewDetSetVector_displacedMuonReducedTrackExtras__RECO
+edmNew::DetSetVector<SiPixelCluster>    "muonReducedTrackExtras"    ""                "RECO"         SiPixelClusteredmNewDetSetVector_muonReducedTrackExtras__RECO
+edmNew::DetSetVector<SiStripCluster>    "displacedMuonReducedTrackExtras"   ""                "RECO"         SiStripClusteredmNewDetSetVector_displacedMuonReducedTrackExtras__RECO
+edmNew::DetSetVector<SiStripCluster>    "muonReducedTrackExtras"    ""                "RECO"         SiStripClusteredmNewDetSetVector_muonReducedTrackExtras__RECO
+edmNew::DetSetVector<TotemT2Digi>     "totemT2Digis"              "TotemT2"         "RECO"         TotemT2DigiedmNewDetSetVector_totemT2Digis_TotemT2_RECO
+reco::BeamHaloSummary                 "BeamHaloSummary"           ""                "RECO"         recoBeamHaloSummary_BeamHaloSummary__RECO
+reco::BeamSpot                        "offlineBeamSpot"           ""                "RECO"         recoBeamSpot_offlineBeamSpot__RECO
+reco::BeamSpot                        "onlineMetaDataDigis"       ""                "RECO"         recoBeamSpot_onlineMetaDataDigis__RECO
+reco::CSCHaloData                     "CSCHaloData"               ""                "RECO"         recoCSCHaloData_CSCHaloData__RECO
+reco::GlobalHaloData                  "GlobalHaloData"            ""                "RECO"         recoGlobalHaloData_GlobalHaloData__RECO
+reco::PFTauDiscriminator              "hpsPFTauDiscriminationByDeadECALElectronRejection"   ""                "RECO"         recoPFTauDiscriminator_hpsPFTauDiscriminationByDeadECALElectronRejection__RECO
+reco::PFTauDiscriminator              "hpsPFTauDiscriminationByDecayModeFinding"   ""                "RECO"         recoPFTauDiscriminator_hpsPFTauDiscriminationByDecayModeFinding__RECO
+reco::PFTauDiscriminator              "hpsPFTauDiscriminationByDecayModeFindingNewDMs"   ""                "RECO"         recoPFTauDiscriminator_hpsPFTauDiscriminationByDecayModeFindingNewDMs__RECO
+reco::PFTauDiscriminator              "hpsPFTauDiscriminationByDecayModeFindingOldDMs"   ""                "RECO"         recoPFTauDiscriminator_hpsPFTauDiscriminationByDecayModeFindingOldDMs__RECO
+vector<BeamSpotOnline>                "scalersRawToDigi"          ""                "RECO"         BeamSpotOnlines_scalersRawToDigi__RECO
+vector<CTPPSLocalTrackLite>           "ctppsLocalTrackLiteProducer"   ""                "RECO"         CTPPSLocalTrackLites_ctppsLocalTrackLiteProducer__RECO
+vector<DcsStatus>                     "scalersRawToDigi"          ""                "RECO"         DcsStatuss_scalersRawToDigi__RECO
+vector<L1AcceptBunchCrossing>         "scalersRawToDigi"          ""                "RECO"         L1AcceptBunchCrossings_scalersRawToDigi__RECO
+vector<L1TriggerScalers>              "scalersRawToDigi"          ""                "RECO"         L1TriggerScalerss_scalersRawToDigi__RECO
+vector<Level1TriggerScalers>          "scalersRawToDigi"          ""                "RECO"         Level1TriggerScalerss_scalersRawToDigi__RECO
+vector<LumiScalers>                   "scalersRawToDigi"          ""                "RECO"         LumiScalerss_scalersRawToDigi__RECO
+vector<TotemFEDInfo>                  "ctppsDiamondRawToDigi"     "TimingDiamond"   "RECO"         TotemFEDInfos_ctppsDiamondRawToDigi_TimingDiamond_RECO
+vector<TotemFEDInfo>                  "totemT2Digis"              "TotemT2"         "RECO"         TotemFEDInfos_totemT2Digis_TotemT2_RECO
+vector<TotemFEDInfo>                  "totemRPRawToDigi"          "TrackingStrip"   "RECO"         TotemFEDInfos_totemRPRawToDigi_TrackingStrip_RECO
+vector<double>                        "ak4PFJetsCHS"              "rhos"            "RECO"         doubles_ak4PFJetsCHS_rhos_RECO
+vector<double>                        "ak4PFJetsPuppi"            "rhos"            "RECO"         doubles_ak4PFJetsPuppi_rhos_RECO
+vector<double>                        "ak8PFJetsPuppi"            "rhos"            "RECO"         doubles_ak8PFJetsPuppi_rhos_RECO
+vector<double>                        "ak8PFJetsPuppiSoftDrop"    "rhos"            "RECO"         doubles_ak8PFJetsPuppiSoftDrop_rhos_RECO
+vector<double>                        "ak4PFJetsCHS"              "sigmas"          "RECO"         doubles_ak4PFJetsCHS_sigmas_RECO
+vector<double>                        "ak4PFJetsPuppi"            "sigmas"          "RECO"         doubles_ak4PFJetsPuppi_sigmas_RECO
+vector<double>                        "ak8PFJetsPuppi"            "sigmas"          "RECO"         doubles_ak8PFJetsPuppi_sigmas_RECO
+vector<double>                        "ak8PFJetsPuppiSoftDrop"    "sigmas"          "RECO"         doubles_ak8PFJetsPuppiSoftDrop_sigmas_RECO
+vector<edm::ErrorSummaryEntry>        "logErrorHarvester"         ""                "RECO"         edmErrorSummaryEntrys_logErrorHarvester__RECO
+vector<edm::FwdPtr<reco::PFCandidate> >    "particleFlowPtrs"          ""                "RECO"         recoPFCandidateedmFwdPtrs_particleFlowPtrs__RECO
+vector<edm::FwdPtr<reco::PFCandidate> >    "particleFlowTmpPtrs"       ""                "RECO"         recoPFCandidateedmFwdPtrs_particleFlowTmpPtrs__RECO
+vector<float>                         "generalTracks"             "MVAValues"       "RECO"         floats_generalTracks_MVAValues_RECO
+vector<reco::BasicJet>                "ak8PFJetsPuppiSoftDrop"    ""                "RECO"         recoBasicJets_ak8PFJetsPuppiSoftDrop__RECO
+vector<reco::CaloCluster>             "hfEMClusters"              ""                "RECO"         recoCaloClusters_hfEMClusters__RECO
+vector<reco::CaloCluster>             "lowPtGsfElectronSuperClusters"   ""                "RECO"         recoCaloClusters_lowPtGsfElectronSuperClusters__RECO
+vector<reco::CaloCluster>             "particleFlowEGamma"        "EBEEClusters"    "RECO"         recoCaloClusters_particleFlowEGamma_EBEEClusters_RECO
+vector<reco::CaloCluster>             "particleFlowEGamma"        "ESClusters"      "RECO"         recoCaloClusters_particleFlowEGamma_ESClusters_RECO
+vector<reco::CaloCluster>             "hybridSuperClusters"       "hybridBarrelBasicClusters"   "RECO"         recoCaloClusters_hybridSuperClusters_hybridBarrelBasicClusters_RECO
+vector<reco::CaloCluster>             "multi5x5SuperClusters"     "multi5x5EndcapBasicClusters"   "RECO"         recoCaloClusters_multi5x5SuperClusters_multi5x5EndcapBasicClusters_RECO
+vector<reco::CaloCluster>             "particleFlowSuperClusterECAL"   "particleFlowBasicClusterECALBarrel"   "RECO"         recoCaloClusters_particleFlowSuperClusterECAL_particleFlowBasicClusterECALBarrel_RECO
+vector<reco::CaloCluster>             "particleFlowSuperClusterECAL"   "particleFlowBasicClusterECALEndcap"   "RECO"         recoCaloClusters_particleFlowSuperClusterECAL_particleFlowBasicClusterECALEndcap_RECO
+vector<reco::CaloCluster>             "particleFlowSuperClusterECAL"   "particleFlowBasicClusterECALPreshower"   "RECO"         recoCaloClusters_particleFlowSuperClusterECAL_particleFlowBasicClusterECALPreshower_RECO
+vector<reco::CaloCluster>             "particleFlowSuperClusterOOTECAL"   "particleFlowBasicClusterOOTECALBarrel"   "RECO"         recoCaloClusters_particleFlowSuperClusterOOTECAL_particleFlowBasicClusterOOTECALBarrel_RECO
+vector<reco::CaloCluster>             "particleFlowSuperClusterOOTECAL"   "particleFlowBasicClusterOOTECALEndcap"   "RECO"         recoCaloClusters_particleFlowSuperClusterOOTECAL_particleFlowBasicClusterOOTECALEndcap_RECO
+vector<reco::CaloCluster>             "particleFlowSuperClusterOOTECAL"   "particleFlowBasicClusterOOTECALPreshower"   "RECO"         recoCaloClusters_particleFlowSuperClusterOOTECAL_particleFlowBasicClusterOOTECALPreshower_RECO
+vector<reco::CaloCluster>             "hybridSuperClusters"       "uncleanOnlyHybridBarrelBasicClusters"   "RECO"         recoCaloClusters_hybridSuperClusters_uncleanOnlyHybridBarrelBasicClusters_RECO
+vector<reco::CaloJet>                 "JetPlusTrackZSPCorJetAntiKt4"   ""                "RECO"         recoCaloJets_JetPlusTrackZSPCorJetAntiKt4__RECO
+vector<reco::CaloJet>                 "ak4CaloJets"               ""                "RECO"         recoCaloJets_ak4CaloJets__RECO
+vector<reco::CaloMET>                 "caloMet"                   ""                "RECO"         recoCaloMETs_caloMet__RECO
+vector<reco::CaloMET>                 "caloMetBE"                 ""                "RECO"         recoCaloMETs_caloMetBE__RECO
+vector<reco::CaloMET>                 "caloMetBEFO"               ""                "RECO"         recoCaloMETs_caloMetBEFO__RECO
+vector<reco::CaloMET>                 "caloMetM"                  ""                "RECO"         recoCaloMETs_caloMetM__RECO
+vector<reco::Conversion>              "allConversions"            ""                "RECO"         recoConversions_allConversions__RECO
+vector<reco::Conversion>              "conversions"               ""                "RECO"         recoConversions_conversions__RECO
+vector<reco::Conversion>              "particleFlowEGamma"        ""                "RECO"         recoConversions_particleFlowEGamma__RECO
+vector<reco::Conversion>              "uncleanedOnlyAllConversions"   ""                "RECO"         recoConversions_uncleanedOnlyAllConversions__RECO
+vector<reco::Conversion>              "gsfTracksOpenConversions"   "gsfTracksOpenConversions"   "RECO"         recoConversions_gsfTracksOpenConversions_gsfTracksOpenConversions_RECO
+vector<reco::DeDxHitInfo>             "dedxHitInfo"               ""                "RECO"         recoDeDxHitInfos_dedxHitInfo__RECO
+vector<reco::ForwardProton>           "ctppsProtons"              "multiRP"         "RECO"         recoForwardProtons_ctppsProtons_multiRP_RECO
+vector<reco::ForwardProton>           "ctppsProtons"              "singleRP"        "RECO"         recoForwardProtons_ctppsProtons_singleRP_RECO
+vector<reco::GsfElectron>             "gedGsfElectrons"           ""                "RECO"         recoGsfElectrons_gedGsfElectrons__RECO
+vector<reco::GsfElectron>             "lowPtGsfElectrons"         ""                "RECO"         recoGsfElectrons_lowPtGsfElectrons__RECO
+vector<reco::GsfElectron>             "uncleanedOnlyGsfElectrons"   ""                "RECO"         recoGsfElectrons_uncleanedOnlyGsfElectrons__RECO
+vector<reco::GsfElectronCore>         "gedGsfElectronCores"       ""                "RECO"         recoGsfElectronCores_gedGsfElectronCores__RECO
+vector<reco::GsfElectronCore>         "lowPtGsfElectronCores"     ""                "RECO"         recoGsfElectronCores_lowPtGsfElectronCores__RECO
+vector<reco::GsfElectronCore>         "uncleanedOnlyGsfElectronCores"   ""                "RECO"         recoGsfElectronCores_uncleanedOnlyGsfElectronCores__RECO
+vector<reco::GsfTrack>                "electronGsfTracks"         ""                "RECO"         recoGsfTracks_electronGsfTracks__RECO
+vector<reco::GsfTrack>                "lowPtGsfEleGsfTracks"      ""                "RECO"         recoGsfTracks_lowPtGsfEleGsfTracks__RECO
+vector<reco::HFEMClusterShape>        "hfEMClusters"              ""                "RECO"         recoHFEMClusterShapes_hfEMClusters__RECO
+vector<reco::JPTJet>                  "JetPlusTrackZSPCorJetAntiKt4"   ""                "RECO"         recoJPTJets_JetPlusTrackZSPCorJetAntiKt4__RECO
+vector<reco::Muon>                    "displacedMuons"            ""                "RECO"         recoMuons_displacedMuons__RECO
+vector<reco::Muon>                    "muons"                     ""                "RECO"         recoMuons_muons__RECO
+vector<reco::Muon>                    "muonsFromCosmics"          ""                "RECO"         recoMuons_muonsFromCosmics__RECO
+vector<reco::Muon>                    "muonsFromCosmics1Leg"      ""                "RECO"         recoMuons_muonsFromCosmics1Leg__RECO
+vector<reco::PFCandidate>             "particleFlow"              ""                "RECO"         recoPFCandidates_particleFlow__RECO
+vector<reco::PFCandidate>             "particleFlowTmp"           "AddedMuonsAndHadrons"   "RECO"         recoPFCandidates_particleFlowTmp_AddedMuonsAndHadrons_RECO
+vector<reco::PFCandidate>             "particleFlowTmp"           "CleanedCosmicsMuons"   "RECO"         recoPFCandidates_particleFlowTmp_CleanedCosmicsMuons_RECO
+vector<reco::PFCandidate>             "particleFlowTmp"           "CleanedFakeMuons"   "RECO"         recoPFCandidates_particleFlowTmp_CleanedFakeMuons_RECO
+vector<reco::PFCandidate>             "particleFlowTmp"           "CleanedHF"       "RECO"         recoPFCandidates_particleFlowTmp_CleanedHF_RECO
+vector<reco::PFCandidate>             "particleFlowTmp"           "CleanedPunchThroughMuons"   "RECO"         recoPFCandidates_particleFlowTmp_CleanedPunchThroughMuons_RECO
+vector<reco::PFCandidate>             "particleFlowTmp"           "CleanedPunchThroughNeutralHadrons"   "RECO"         recoPFCandidates_particleFlowTmp_CleanedPunchThroughNeutralHadrons_RECO
+vector<reco::PFCandidate>             "particleFlowTmp"           "CleanedTrackerAndGlobalMuons"   "RECO"         recoPFCandidates_particleFlowTmp_CleanedTrackerAndGlobalMuons_RECO
+vector<reco::PFJet>                   "ak4PFJets"                 ""                "RECO"         recoPFJets_ak4PFJets__RECO
+vector<reco::PFJet>                   "ak4PFJetsCHS"              ""                "RECO"         recoPFJets_ak4PFJetsCHS__RECO
+vector<reco::PFJet>                   "ak4PFJetsPuppi"            ""                "RECO"         recoPFJets_ak4PFJetsPuppi__RECO
+vector<reco::PFJet>                   "ak8PFJetsPuppi"            ""                "RECO"         recoPFJets_ak8PFJetsPuppi__RECO
+vector<reco::PFJet>                   "ak8PFJetsPuppiSoftDrop"    "SubJets"         "RECO"         recoPFJets_ak8PFJetsPuppiSoftDrop_SubJets_RECO
+vector<reco::PFMET>                   "pfChMet"                   ""                "RECO"         recoPFMETs_pfChMet__RECO
+vector<reco::PFMET>                   "pfMet"                     ""                "RECO"         recoPFMETs_pfMet__RECO
+vector<reco::PFMET>                   "pfMetPuppi"                ""                "RECO"         recoPFMETs_pfMetPuppi__RECO
+vector<reco::PFRecHit>                "particleFlowRecHitECAL"    "Cleaned"         "RECO"         recoPFRecHits_particleFlowRecHitECAL_Cleaned_RECO
+vector<reco::PFRecHit>                "particleFlowRecHitHBHE"    "Cleaned"         "RECO"         recoPFRecHits_particleFlowRecHitHBHE_Cleaned_RECO
+vector<reco::PFRecHit>                "particleFlowRecHitHF"      "Cleaned"         "RECO"         recoPFRecHits_particleFlowRecHitHF_Cleaned_RECO
+vector<reco::PFRecHit>                "particleFlowRecHitHO"      "Cleaned"         "RECO"         recoPFRecHits_particleFlowRecHitHO_Cleaned_RECO
+vector<reco::PFRecHit>                "particleFlowRecHitPS"      "Cleaned"         "RECO"         recoPFRecHits_particleFlowRecHitPS_Cleaned_RECO
+vector<reco::PFTau>                   "hpsPFTauProducer"          ""                "RECO"         recoPFTaus_hpsPFTauProducer__RECO
+vector<reco::PFTauTransverseImpactParameter>    "hpsPFTauTransverseImpactParameters"   "PFTauTIP"        "RECO"         recoPFTauTransverseImpactParameters_hpsPFTauTransverseImpactParameters_PFTauTIP_RECO
+vector<reco::Photon>                  "gedPhotons"                ""                "RECO"         recoPhotons_gedPhotons__RECO
+vector<reco::Photon>                  "ootPhotons"                ""                "RECO"         recoPhotons_ootPhotons__RECO
+vector<reco::Photon>                  "photons"                   ""                "RECO"         recoPhotons_photons__RECO
+vector<reco::PhotonCore>              "gedPhotonCore"             ""                "RECO"         recoPhotonCores_gedPhotonCore__RECO
+vector<reco::PhotonCore>              "ootPhotonCore"             ""                "RECO"         recoPhotonCores_ootPhotonCore__RECO
+vector<reco::PhotonCore>              "photonCore"                ""                "RECO"         recoPhotonCores_photonCore__RECO
+vector<reco::PixelClusterTagInfo>     "pixelClusterTagInfos"      ""                "RECO"         recoPixelClusterTagInfos_pixelClusterTagInfos__RECO
+vector<reco::PreshowerCluster>        "multi5x5SuperClustersWithPreshower"   "preshowerXClusters"   "RECO"         recoPreshowerClusters_multi5x5SuperClustersWithPreshower_preshowerXClusters_RECO
+vector<reco::PreshowerCluster>        "multi5x5SuperClustersWithPreshower"   "preshowerYClusters"   "RECO"         recoPreshowerClusters_multi5x5SuperClustersWithPreshower_preshowerYClusters_RECO
+vector<reco::PreshowerClusterShape>    "multi5x5PreshowerClusterShape"   "multi5x5PreshowerXClustersShape"   "RECO"         recoPreshowerClusterShapes_multi5x5PreshowerClusterShape_multi5x5PreshowerXClustersShape_RECO
+vector<reco::PreshowerClusterShape>    "multi5x5PreshowerClusterShape"   "multi5x5PreshowerYClustersShape"   "RECO"         recoPreshowerClusterShapes_multi5x5PreshowerClusterShape_multi5x5PreshowerYClustersShape_RECO
+vector<reco::RecoEcalCandidate>       "hfRecoEcalCandidate"       ""                "RECO"         recoRecoEcalCandidates_hfRecoEcalCandidate__RECO
+vector<reco::RecoTauPiZero>           "hpsPFTauProducer"          "pizeros"         "RECO"         recoRecoTauPiZeros_hpsPFTauProducer_pizeros_RECO
+vector<reco::SuperCluster>            "correctedHybridSuperClusters"   ""                "RECO"         recoSuperClusters_correctedHybridSuperClusters__RECO
+vector<reco::SuperCluster>            "correctedMulti5x5SuperClustersWithPreshower"   ""                "RECO"         recoSuperClusters_correctedMulti5x5SuperClustersWithPreshower__RECO
+vector<reco::SuperCluster>            "hfEMClusters"              ""                "RECO"         recoSuperClusters_hfEMClusters__RECO
+vector<reco::SuperCluster>            "lowPtGsfElectronSuperClusters"   ""                "RECO"         recoSuperClusters_lowPtGsfElectronSuperClusters__RECO
+vector<reco::SuperCluster>            "particleFlowEGamma"        ""                "RECO"         recoSuperClusters_particleFlowEGamma__RECO
+vector<reco::SuperCluster>            "particleFlowSuperClusterECAL"   "particleFlowSuperClusterECALBarrel"   "RECO"         recoSuperClusters_particleFlowSuperClusterECAL_particleFlowSuperClusterECALBarrel_RECO
+vector<reco::SuperCluster>            "particleFlowSuperClusterECAL"   "particleFlowSuperClusterECALEndcapWithPreshower"   "RECO"         recoSuperClusters_particleFlowSuperClusterECAL_particleFlowSuperClusterECALEndcapWithPreshower_RECO
+vector<reco::SuperCluster>            "particleFlowSuperClusterOOTECAL"   "particleFlowSuperClusterOOTECALBarrel"   "RECO"         recoSuperClusters_particleFlowSuperClusterOOTECAL_particleFlowSuperClusterOOTECALBarrel_RECO
+vector<reco::SuperCluster>            "particleFlowSuperClusterOOTECAL"   "particleFlowSuperClusterOOTECALEndcapWithPreshower"   "RECO"         recoSuperClusters_particleFlowSuperClusterOOTECAL_particleFlowSuperClusterOOTECALEndcapWithPreshower_RECO
+vector<reco::SuperCluster>            "hybridSuperClusters"       "uncleanOnlyHybridSuperClusters"   "RECO"         recoSuperClusters_hybridSuperClusters_uncleanOnlyHybridSuperClusters_RECO
+vector<reco::Track>                   "ckfInOutTracksFromConversions"   ""                "RECO"         recoTracks_ckfInOutTracksFromConversions__RECO
+vector<reco::Track>                   "ckfOutInTracksFromConversions"   ""                "RECO"         recoTracks_ckfOutInTracksFromConversions__RECO
+vector<reco::Track>                   "conversionStepTracks"      ""                "RECO"         recoTracks_conversionStepTracks__RECO
+vector<reco::Track>                   "cosmicMuons"               ""                "RECO"         recoTracks_cosmicMuons__RECO
+vector<reco::Track>                   "cosmicMuons1Leg"           ""                "RECO"         recoTracks_cosmicMuons1Leg__RECO
+vector<reco::Track>                   "displacedGlobalMuons"      ""                "RECO"         recoTracks_displacedGlobalMuons__RECO
+vector<reco::Track>                   "displacedStandAloneMuons"   ""                "RECO"         recoTracks_displacedStandAloneMuons__RECO
+vector<reco::Track>                   "displacedTracks"           ""                "RECO"         recoTracks_displacedTracks__RECO
+vector<reco::Track>                   "generalTracks"             ""                "RECO"         recoTracks_generalTracks__RECO
+vector<reco::Track>                   "globalMuons"               ""                "RECO"         recoTracks_globalMuons__RECO
+vector<reco::Track>                   "refittedStandAloneMuons"   ""                "RECO"         recoTracks_refittedStandAloneMuons__RECO
+vector<reco::Track>                   "standAloneMuons"           ""                "RECO"         recoTracks_standAloneMuons__RECO
+vector<reco::Track>                   "uncleanedOnlyCkfInOutTracksFromConversions"   ""                "RECO"         recoTracks_uncleanedOnlyCkfInOutTracksFromConversions__RECO
+vector<reco::Track>                   "uncleanedOnlyCkfOutInTracksFromConversions"   ""                "RECO"         recoTracks_uncleanedOnlyCkfOutInTracksFromConversions__RECO
+vector<reco::Track>                   "refittedStandAloneMuons"   "UpdatedAtVtx"    "RECO"         recoTracks_refittedStandAloneMuons_UpdatedAtVtx_RECO
+vector<reco::Track>                   "standAloneMuons"           "UpdatedAtVtx"    "RECO"         recoTracks_standAloneMuons_UpdatedAtVtx_RECO
+vector<reco::Track>                   "tevMuons"                  "default"         "RECO"         recoTracks_tevMuons_default_RECO
+vector<reco::Track>                   "tevMuons"                  "dyt"             "RECO"         recoTracks_tevMuons_dyt_RECO
+vector<reco::Track>                   "tevMuons"                  "firstHit"        "RECO"         recoTracks_tevMuons_firstHit_RECO
+vector<reco::Track>                   "tevMuons"                  "picky"           "RECO"         recoTracks_tevMuons_picky_RECO
+vector<reco::TrackExtra>              "displacedGlobalMuons"      ""                "RECO"         recoTrackExtras_displacedGlobalMuons__RECO
+vector<reco::TrackExtra>              "displacedMuonReducedTrackExtras"   ""                "RECO"         recoTrackExtras_displacedMuonReducedTrackExtras__RECO
+vector<reco::TrackExtra>              "displacedStandAloneMuons"   ""                "RECO"         recoTrackExtras_displacedStandAloneMuons__RECO
+vector<reco::TrackExtra>              "globalMuons"               ""                "RECO"         recoTrackExtras_globalMuons__RECO
+vector<reco::TrackExtra>              "muonReducedTrackExtras"    ""                "RECO"         recoTrackExtras_muonReducedTrackExtras__RECO
+vector<reco::TrackExtra>              "refittedStandAloneMuons"   ""                "RECO"         recoTrackExtras_refittedStandAloneMuons__RECO
+vector<reco::TrackExtra>              "standAloneMuons"           ""                "RECO"         recoTrackExtras_standAloneMuons__RECO
+vector<reco::TrackExtra>              "tevMuons"                  "default"         "RECO"         recoTrackExtras_tevMuons_default_RECO
+vector<reco::TrackExtra>              "tevMuons"                  "dyt"             "RECO"         recoTrackExtras_tevMuons_dyt_RECO
+vector<reco::TrackExtra>              "tevMuons"                  "firstHit"        "RECO"         recoTrackExtras_tevMuons_firstHit_RECO
+vector<reco::TrackExtra>              "tevMuons"                  "picky"           "RECO"         recoTrackExtras_tevMuons_picky_RECO
+vector<reco::TrackExtrapolation>      "trackExtrapolator"         ""                "RECO"         recoTrackExtrapolations_trackExtrapolator__RECO
+vector<reco::Vertex>                  "inclusiveSecondaryVertices"   ""                "RECO"         recoVertexs_inclusiveSecondaryVertices__RECO
+vector<reco::Vertex>                  "offlinePrimaryVertices"    ""                "RECO"         recoVertexs_offlinePrimaryVertices__RECO
+vector<reco::Vertex>                  "offlinePrimaryVerticesWithBS"   ""                "RECO"         recoVertexs_offlinePrimaryVerticesWithBS__RECO
+vector<reco::VertexCompositeCandidate>    "generalV0Candidates"       "Kshort"          "RECO"         recoVertexCompositeCandidates_generalV0Candidates_Kshort_RECO
+vector<reco::VertexCompositeCandidate>    "generalV0Candidates"       "Lambda"          "RECO"         recoVertexCompositeCandidates_generalV0Candidates_Lambda_RECO
+vector<reco::VertexCompositePtrCandidate>    "inclusiveCandidateSecondaryVertices"   ""                "RECO"         recoVertexCompositePtrCandidates_inclusiveCandidateSecondaryVertices__RECO
+vector<reco::VertexCompositePtrCandidate>    "inclusiveCandidateSecondaryVerticesCvsL"   ""                "RECO"         recoVertexCompositePtrCandidates_inclusiveCandidateSecondaryVerticesCvsL__RECO

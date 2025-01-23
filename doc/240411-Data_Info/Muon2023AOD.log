@@ -1,0 +1,48 @@
++----------------------------------------------------+-------------------+
+| SCOPE:NAME                                         | [DID TYPE]        |
+|----------------------------------------------------+-------------------|
+| cms:/Muon/Run2023E-EXODisappTrk-PromptReco-v1/AOD  | DIDType.CONTAINER |
+| cms:/Muon/Run2023E-PromptReco-v1/AOD               | DIDType.CONTAINER |
+| cms:/Muon0/Run2023A-EXODisappTrk-PromptReco-v2/AOD | DIDType.CONTAINER |
+| cms:/Muon0/Run2023A-PromptReco-v2/AOD              | DIDType.CONTAINER |
+| cms:/Muon0/Run2023B-EXODisappTrk-PromptReco-v1/AOD | DIDType.CONTAINER |
+| cms:/Muon0/Run2023B-PromptReco-v1/AOD              | DIDType.CONTAINER |
+| cms:/Muon0/Run2023C-EXODisappTrk-PromptReco-v1/AOD | DIDType.CONTAINER |
+| cms:/Muon0/Run2023C-EXODisappTrk-PromptReco-v2/AOD | DIDType.CONTAINER |
+| cms:/Muon0/Run2023C-EXODisappTrk-PromptReco-v3/AOD | DIDType.CONTAINER |
+| cms:/Muon0/Run2023C-EXODisappTrk-PromptReco-v4/AOD | DIDType.CONTAINER |
+| cms:/Muon0/Run2023C-PromptReco-v1/AOD              | DIDType.CONTAINER |
+| cms:/Muon0/Run2023C-PromptReco-v2/AOD              | DIDType.CONTAINER |
+| cms:/Muon0/Run2023C-PromptReco-v3/AOD              | DIDType.CONTAINER |
+| cms:/Muon0/Run2023C-PromptReco-v4/AOD              | DIDType.CONTAINER |
+| cms:/Muon0/Run2023D-EXODisappTrk-PromptReco-v1/AOD | DIDType.CONTAINER |
+| cms:/Muon0/Run2023D-EXODisappTrk-PromptReco-v2/AOD | DIDType.CONTAINER |
+| cms:/Muon0/Run2023D-PromptReco-v1/AOD              | DIDType.CONTAINER |
+| cms:/Muon0/Run2023D-PromptReco-v2/AOD              | DIDType.CONTAINER |
+| cms:/Muon1/Run2023A-EXODisappTrk-PromptReco-v2/AOD | DIDType.CONTAINER |
+| cms:/Muon1/Run2023A-PromptReco-v2/AOD              | DIDType.CONTAINER |
+| cms:/Muon1/Run2023B-EXODisappTrk-PromptReco-v1/AOD | DIDType.CONTAINER |
+| cms:/Muon1/Run2023B-PromptReco-v1/AOD              | DIDType.CONTAINER |
+| cms:/Muon1/Run2023C-EXODisappTrk-PromptReco-v1/AOD | DIDType.CONTAINER |
+| cms:/Muon1/Run2023C-EXODisappTrk-PromptReco-v2/AOD | DIDType.CONTAINER |
+| cms:/Muon1/Run2023C-EXODisappTrk-PromptReco-v3/AOD | DIDType.CONTAINER |
+| cms:/Muon1/Run2023C-EXODisappTrk-PromptReco-v4/AOD | DIDType.CONTAINER |
+| cms:/Muon1/Run2023C-PromptReco-v1/AOD              | DIDType.CONTAINER |
+| cms:/Muon1/Run2023C-PromptReco-v2/AOD              | DIDType.CONTAINER |
+| cms:/Muon1/Run2023C-PromptReco-v3/AOD              | DIDType.CONTAINER |
+| cms:/Muon1/Run2023C-PromptReco-v4/AOD              | DIDType.CONTAINER |
+| cms:/Muon1/Run2023D-EXODisappTrk-PromptReco-v1/AOD | DIDType.CONTAINER |
+| cms:/Muon1/Run2023D-EXODisappTrk-PromptReco-v2/AOD | DIDType.CONTAINER |
+| cms:/Muon1/Run2023D-PromptReco-v1/AOD              | DIDType.CONTAINER |
+| cms:/Muon1/Run2023D-PromptReco-v2/AOD              | DIDType.CONTAINER |
+| cms:/MuonEG/Run2023A-PromptReco-v2/AOD             | DIDType.CONTAINER |
+| cms:/MuonEG/Run2023B-PromptReco-v1/AOD             | DIDType.CONTAINER |
+| cms:/MuonEG/Run2023C-PromptReco-v1/AOD             | DIDType.CONTAINER |
+| cms:/MuonEG/Run2023C-PromptReco-v2/AOD             | DIDType.CONTAINER |
+| cms:/MuonEG/Run2023C-PromptReco-v3/AOD             | DIDType.CONTAINER |
+| cms:/MuonEG/Run2023C-PromptReco-v4/AOD             | DIDType.CONTAINER |
+| cms:/MuonEG/Run2023D-PromptReco-v1/AOD             | DIDType.CONTAINER |
+| cms:/MuonEG/Run2023D-PromptReco-v2/AOD             | DIDType.CONTAINER |
+| cms:/MuonShower/Run2023E-PromptReco-v1/AOD         | DIDType.CONTAINER |
+| cms:/MuonShower/Run2023F-PromptReco-v1/AOD         | DIDType.CONTAINER |
++----------------------------------------------------+-------------------+

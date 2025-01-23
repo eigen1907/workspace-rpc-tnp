@@ -1,0 +1,38 @@
+[
+    {
+        "primary_dataset": "Muon0",
+        "proceed_dataset": "Run2023B-PromptReco-v1",
+        "cert": "Run2023/Cert_Collisions2023_366442_370790_Golden.json",
+        "geometry": "run3.csv"
+    },
+    {
+        "primary_dataset": "Muon1",
+        "proceed_dataset": "Run2023B-PromptReco-v1",
+        "cert": "Run2023/Cert_Collisions2023_366442_370790_Golden.json",
+        "geometry": "run3.csv"
+    },
+    {
+        "primary_dataset": "Muon0",
+        "proceed_dataset": "Run2023C-PromptReco-v4",
+        "cert": "Run2023/Cert_Collisions2023_366442_370790_Golden.json",
+        "geometry": "run3.csv"
+    },
+    {
+        "primary_dataset": "Muon1",
+        "proceed_dataset": "Run2023C-PromptReco-v4",
+        "cert": "Run2023/Cert_Collisions2023_366442_370790_Golden.json",
+        "geometry": "run3.csv"
+    },
+    {
+        "primary_dataset": "Muon0",
+        "proceed_dataset": "Run2023D-PromptReco-v2",
+        "cert": "Run2023/Cert_Collisions2023_366442_370790_Golden.json",
+        "geometry": "run3.csv"
+    },
+    {
+        "primary_dataset": "Muon1",
+        "proceed_dataset": "Run2023D-PromptReco-v2",
+        "cert": "Run2023/Cert_Collisions2023_366442_370790_Golden.json",
+        "geometry": "run3.csv"
+    }
+]

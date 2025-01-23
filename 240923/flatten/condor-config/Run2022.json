@@ -1,0 +1,44 @@
+[
+    {
+        "primary_dataset": "SingleMuon",
+        "proceed_dataset": "Run2022B-27Jun2023-v1",
+        "cert": "Run2022/Cert_Collisions2022_355100_362760_Golden.json",
+        "geometry": "run3.csv"
+    },
+    {
+        "primary_dataset": "SingleMuon",
+        "proceed_dataset": "Run2022C-27Jun2023-v1",
+        "cert": "Run2022/Cert_Collisions2022_355100_362760_Golden.json",
+        "geometry": "run3.csv"
+    },
+    {
+        "primary_dataset": "Muon",
+        "proceed_dataset": "Run2022C-27Jun2023-v1",
+        "cert": "Run2022/Cert_Collisions2022_355100_362760_Golden.json",
+        "geometry": "run3.csv"
+    },
+    {
+        "primary_dataset": "Muon",
+        "proceed_dataset": "Run2022D-27Jun2023-v2",
+        "cert": "Run2022/Cert_Collisions2022_355100_362760_Golden.json",
+        "geometry": "run3.csv"
+    },
+    {
+        "primary_dataset": "Muon",
+        "proceed_dataset": "Run2022E-27Jun2023-v1",
+        "cert": "Run2022/Cert_Collisions2022_355100_362760_Golden.json",
+        "geometry": "run3.csv"
+    },
+    {
+        "primary_dataset": "Muon",
+        "proceed_dataset": "Run2022F-PromptReco-v1",
+        "cert": "Run2022/Cert_Collisions2022_355100_362760_Golden.json",
+        "geometry": "run3.csv"
+    },
+    {
+        "primary_dataset": "Muon",
+        "proceed_dataset": "Run2022G-PromptReco-v1",
+        "cert": "Run2022/Cert_Collisions2022_355100_362760_Golden.json",
+        "geometry": "run3.csv"
+    }
+]

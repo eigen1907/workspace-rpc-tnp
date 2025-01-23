@@ -1,0 +1,4 @@
+executable = condor.sh
+arguments  = /pnfs/knu.ac.kr/data/cms/store/user/joshin/RPC/TnP-NanoAOD/240414*/Muon/*Muon__Run2022D*/*/*/$(FILE)
+log        = condor.log
+queue FILE from condor.dat
