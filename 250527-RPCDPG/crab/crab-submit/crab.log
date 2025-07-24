@@ -1,0 +1,67 @@
+DEBUG 2024-10-16 03:09:40.699 UTC: 	 CRAB Client version: v3.240621
+DEBUG 2024-10-16 03:09:40.699 UTC: 	 Running on: Linux lxplus923.cern.ch 5.14.0-427.35.1.el9_4.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Aug 30 15:47:10 EDT 2024 x86_64 x86_64 x86_64 GNU/Linux - Red Hat Enterprise Linux 9.4 (Plow)
+DEBUG 2024-10-16 03:09:40.700 UTC: 	 Executing command: 'resubmit'
+DEBUG 2024-10-16 03:09:40.700 UTC: 	 Found CRAB cache file /afs/cern.ch/user/j/joshin/.crab3
+DEBUG 2024-10-16 03:09:47.324 UTC: 	 CRAB Client version: v3.240621
+DEBUG 2024-10-16 03:09:47.325 UTC: 	 Running on: Linux lxplus923.cern.ch 5.14.0-427.35.1.el9_4.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Aug 30 15:47:10 EDT 2024 x86_64 x86_64 x86_64 GNU/Linux - Red Hat Enterprise Linux 9.4 (Plow)
+DEBUG 2024-10-16 03:09:47.325 UTC: 	 Executing command: 'resubmit'
+DEBUG 2024-10-16 03:09:47.325 UTC: 	 Found CRAB cache file /afs/cern.ch/user/j/joshin/.crab3
+DEBUG 2024-10-17 00:47:32.389 UTC: 	 CRAB Client version: v3.240621
+DEBUG 2024-10-17 00:47:32.389 UTC: 	 Running on: Linux lxplus933.cern.ch 5.14.0-427.31.1.el9_4.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Aug 9 14:06:03 EDT 2024 x86_64 x86_64 x86_64 GNU/Linux - Red Hat Enterprise Linux 9.4 (Plow)
+DEBUG 2024-10-17 00:47:32.389 UTC: 	 Executing command: 'resubmit'
+DEBUG 2024-10-17 00:47:32.392 UTC: 	 Found CRAB cache file /afs/cern.ch/user/j/joshin/.crab3
+DEBUG 2025-05-27 10:25:26.541 UTC: 	 CRAB Client version: v3.250409
+DEBUG 2025-05-27 10:25:26.541 UTC: 	 Running on: Linux ui20.sdfarm.kr 5.14.0-427.42.1.el9_4.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Nov 1 14:58:02 EDT 2024 x86_64 x86_64 x86_64 GNU/Linux
+DEBUG 2025-05-27 10:25:26.541 UTC: 	 Not using Singularity
+DEBUG 2025-05-27 10:25:26.541 UTC: 	 Operating System: AlmaLinux 9.6 (Sage Margay)
+DEBUG 2025-05-27 10:25:26.541 UTC: 	 Executing command: 'submit'
+DEBUG 2025-05-27 10:25:26.542 UTC: 	 Found CRAB cache file /cms/ldap_home/sjws5411/.crab3
+DEBUG 2025-05-27 10:25:26.544 UTC: 	 Will use CRAB plugin ANALYSIS (i.e. will run an analysis job type).
+DEBUG 2025-05-27 10:25:26.592 UTC: 	 CRAB Client version: v3.250409
+DEBUG 2025-05-27 10:25:26.592 UTC: 	 Running on: Linux ui20.sdfarm.kr 5.14.0-427.42.1.el9_4.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Nov 1 14:58:02 EDT 2024 x86_64 x86_64 x86_64 GNU/Linux
+DEBUG 2025-05-27 10:25:26.593 UTC: 	 Not using Singularity
+DEBUG 2025-05-27 10:25:26.593 UTC: 	 Operating System: AlmaLinux 9.6 (Sage Margay)
+DEBUG 2025-05-27 10:25:26.593 UTC: 	 Executing command: 'submit'
+DEBUG 2025-05-27 10:25:26.593 UTC: 	 Found CRAB cache file /cms/ldap_home/sjws5411/.crab3
+DEBUG 2025-05-27 10:25:26.594 UTC: 	 Will use CRAB plugin ANALYSIS (i.e. will run an analysis job type).
+DEBUG 2025-05-27 10:35:58.770 UTC: 	 CRAB Client version: v3.250409
+DEBUG 2025-05-27 10:35:58.770 UTC: 	 Running on: Linux ui20.sdfarm.kr 5.14.0-427.42.1.el9_4.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Nov 1 14:58:02 EDT 2024 x86_64 x86_64 x86_64 GNU/Linux
+DEBUG 2025-05-27 10:35:58.770 UTC: 	 Not using Singularity
+DEBUG 2025-05-27 10:35:58.770 UTC: 	 Operating System: AlmaLinux 9.6 (Sage Margay)
+DEBUG 2025-05-27 10:35:58.771 UTC: 	 Executing command: 'submit'
+DEBUG 2025-05-27 10:35:58.771 UTC: 	 Found CRAB cache file /cms/ldap_home/sjws5411/.crab3
+DEBUG 2025-05-27 10:35:58.773 UTC: 	 Will use CRAB plugin ANALYSIS (i.e. will run an analysis job type).
+DEBUG 2025-05-27 10:35:58.793 UTC: 	 CRAB Client version: v3.250409
+DEBUG 2025-05-27 10:35:58.793 UTC: 	 Running on: Linux ui20.sdfarm.kr 5.14.0-427.42.1.el9_4.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Nov 1 14:58:02 EDT 2024 x86_64 x86_64 x86_64 GNU/Linux
+DEBUG 2025-05-27 10:35:58.793 UTC: 	 Not using Singularity
+DEBUG 2025-05-27 10:35:58.793 UTC: 	 Operating System: AlmaLinux 9.6 (Sage Margay)
+DEBUG 2025-05-27 10:35:58.793 UTC: 	 Executing command: 'submit'
+DEBUG 2025-05-27 10:35:58.794 UTC: 	 Found CRAB cache file /cms/ldap_home/sjws5411/.crab3
+DEBUG 2025-05-27 10:35:58.795 UTC: 	 Will use CRAB plugin ANALYSIS (i.e. will run an analysis job type).
+DEBUG 2025-05-27 11:03:13.628 UTC: 	 CRAB Client version: v3.250409
+DEBUG 2025-05-27 11:03:13.628 UTC: 	 Running on: Linux ui20.sdfarm.kr 5.14.0-427.42.1.el9_4.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Nov 1 14:58:02 EDT 2024 x86_64 x86_64 x86_64 GNU/Linux
+DEBUG 2025-05-27 11:03:13.628 UTC: 	 Not using Singularity
+DEBUG 2025-05-27 11:03:13.628 UTC: 	 Operating System: AlmaLinux 9.6 (Sage Margay)
+DEBUG 2025-05-27 11:03:13.628 UTC: 	 Executing command: 'status'
+DEBUG 2025-05-27 11:03:13.629 UTC: 	 Found CRAB cache file /cms/ldap_home/sjws5411/.crab3
+ERROR 2025-05-27 11:03:13.631 UTC: 	 Cannot find .requestcache file in CRAB project directory /cms/ldap_home/sjws5411/workspace-ui20/rpc-tnp/workspace-rpc-tnp/250527-RPCDPG/crab/crab-submit/crab_Muon1_Run2023C-PromptReco-v4_muRPCTnPFlatTableProducer_cfg
+ERROR 2025-05-27 11:03:13.632 UTC: 	 Caught ClientException exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/share/cms/crab-prod/v3.250409.00/bin/crab.py", line 157, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/share/cms/crab-prod/v3.250409.00/bin/crab.py", line 135, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])  # the crab command to be executed
+  File "/cvmfs/cms.cern.ch/share/cms/crab-prod/v3.250409.00/lib/CRABClient/Commands/status.py", line 48, in __init__
+    SubCommand.__init__(self, logger, cmdargs)
+  File "/cvmfs/cms.cern.ch/share/cms/crab-prod/v3.250409.00/lib/CRABClient/Commands/SubCommand.py", line 281, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/share/cms/crab-prod/v3.250409.00/lib/CRABClient/Commands/SubCommand.py", line 695, in validateOptions
+    self.loadLocalCache()
+  File "/cvmfs/cms.cern.ch/share/cms/crab-prod/v3.250409.00/lib/CRABClient/Commands/SubCommand.py", line 537, in loadLocalCache
+    raise ex
+  File "/cvmfs/cms.cern.ch/share/cms/crab-prod/v3.250409.00/lib/CRABClient/Commands/SubCommand.py", line 531, in loadLocalCache
+    self.cachedinfo, self.logfile = loadCache(self.requestarea, self.logger)
+  File "/cvmfs/cms.cern.ch/share/cms/crab-prod/v3.250409.00/lib/CRABClient/ClientUtilities.py", line 445, in loadCache
+    raise CachefileNotFoundException(msg)
+CRABClient.ClientExceptions.CachefileNotFoundException: Cannot find .requestcache file in CRAB project directory /cms/ldap_home/sjws5411/workspace-ui20/rpc-tnp/workspace-rpc-tnp/250527-RPCDPG/crab/crab-submit/crab_Muon1_Run2023C-PromptReco-v4_muRPCTnPFlatTableProducer_cfg
+INFO 2025-05-27 11:03:13.636 UTC: 	 Log file is /cms/ldap_home/sjws5411/workspace-ui20/rpc-tnp/workspace-rpc-tnp/250527-RPCDPG/crab/crab-submit/crab.log
